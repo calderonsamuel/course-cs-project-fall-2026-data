@@ -1,0 +1,36 @@
+theme,taakveld,taakveld_title,confidence,note
+Organisatie en bedrijfsvoering,0.4,Overhead,high,"Internal operations: HR, finance, IT, document handling"
+Openbare orde en veiligheid,1.2,Openbare orde en veiligheid,high,
+Openbare orde en veiligheid,1.1,Crisisbeheersing en brandweer,low,Only for crisis or fire-service systems
+Ruimte en infrastructuur,8.1,Ruimte en leefomgeving,medium,Theme is broad; keyword rules refine it
+Ruimte en infrastructuur,2.1,Verkeer en vervoer,low,Roads and public space management
+Ruimte en infrastructuur,5.7,Openbaar groen en (openlucht) recreatie,low,
+Ruimte en infrastructuur,7.3,Afval,low,Waste detection systems
+Sociale zekerheid,6.3,Inkomensregelingen,high,Social assistance (bijstand) and income support
+Sociale zekerheid,6.21,Toegang en eerstelijnsvoorz. WMO,low,
+Overheidsfinanciën,0.61,OZB woningen,medium,Property valuation (WOZ) and local taxes
+Overheidsfinanciën,0.62,OZB niet-woningen,medium,
+Overheidsfinanciën,0.64,Belastingen overig,medium,
+Overheidsfinanciën,0.5,Treasury,low,
+Verkeer,2.1,Verkeer en vervoer,high,
+Verkeer,2.2,Parkeren,medium,Parking enforcement and garages
+Verkeer,0.63,Parkeerbelasting,low,Parking fees and fines
+Natuur en milieu,7.4,Milieubeheer,high,
+Natuur en milieu,7.3,Afval,medium,
+Economie,3.1,Economische ontwikkeling,medium,
+Economie,3.3,Bedrijvenloket en bedrijfsregelingen,medium,Permits and business services
+Economie,3.4,Economische promotie,low,
+Recht,0.1,Bestuur,low,Legal affairs sit in management or overhead
+Recht,0.4,Overhead,low,
+Wonen,8.3,Wonen en bouwen,high,"Housing, building permits, holiday-rental enforcement"
+Zorg en gezondheid,7.1,Volksgezondheid,medium,Public health (GGD)
+Zorg en gezondheid,6.21,Toegang en eerstelijnsvoorz. WMO,medium,
+Zorg en gezondheid,6.22,Toegang en eerstelijnsvoorz. Jeugd,low,
+Werk,6.5,Arbeidsparticipatie,high,
+Werk,6.4,WSW en beschut werk,low,
+Onderwijs en wetenschap,4.3,Onderwijsbeleid en leerlingzaken,high,
+Migratie en integratie,6.3,Inkomensregelingen,low,Civic integration has no task field of its own
+Migratie en integratie,6.5,Arbeidsparticipatie,low,
+Internationaal,0.1,Bestuur,low,
+Cultuur en recreatie,5.3,"Cultuurpresentatie, cultuurproductie en cultuurparticipatie",medium,
+Cultuur en recreatie,5.1,Sportbeleid en activering,low,

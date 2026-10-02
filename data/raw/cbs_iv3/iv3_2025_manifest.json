@@ -1,0 +1,80 @@
+{
+  "source": "https://dataderden.cbs.nl/ODataApi/odata/45071NED",
+  "table": "45071NED Gemeenten 2025 onbewerkte Iv3-data",
+  "retrieved_at": "2026-10-02T02:31:48-0500",
+  "r_version": "R version 4.5.3 (2026-03-11 ucrt)",
+  "unit": "thousand euro",
+  "municipalities": {
+    "GM0363": "Amsterdam",
+    "GM0518": "Den Haag",
+    "GM0715": "Terneuzen"
+  },
+  "reports": {
+    "2025X000": "Begroting",
+    "2025X005": "Jaarrekening"
+  },
+  "n_rows": 67860,
+  "columns": ["ID", "TaakveldBalanspost", "Categorie", "Gemeenten", "Verslagsoort", "release1_keur", "release2_keur"],
+  "summary": [
+    {
+      "municipality": "Amsterdam",
+      "code": "GM0363",
+      "report": "Begroting",
+      "report_key": "2025X000",
+      "rows": 11310,
+      "rows_with_value_release1": 11172,
+      "rows_with_value_release2": 11172,
+      "total_expenses_keur": 6797888
+    },
+    {
+      "municipality": "Amsterdam",
+      "code": "GM0363",
+      "report": "Jaarrekening",
+      "report_key": "2025X005",
+      "rows": 11310,
+      "rows_with_value_release1": 11172,
+      "rows_with_value_release2": 11172,
+      "total_expenses_keur": 7568716
+    },
+    {
+      "municipality": "Den Haag",
+      "code": "GM0518",
+      "report": "Begroting",
+      "report_key": "2025X000",
+      "rows": 11310,
+      "rows_with_value_release1": 11172,
+      "rows_with_value_release2": 11172,
+      "total_expenses_keur": 3319170
+    },
+    {
+      "municipality": "Den Haag",
+      "code": "GM0518",
+      "report": "Jaarrekening",
+      "report_key": "2025X005",
+      "rows": 11310,
+      "rows_with_value_release1": 11172,
+      "rows_with_value_release2": 11172,
+      "total_expenses_keur": 3529349
+    },
+    {
+      "municipality": "Terneuzen",
+      "code": "GM0715",
+      "report": "Begroting",
+      "report_key": "2025X000",
+      "rows": 11310,
+      "rows_with_value_release1": 11172,
+      "rows_with_value_release2": 11172,
+      "total_expenses_keur": 229918
+    },
+    {
+      "municipality": "Terneuzen",
+      "code": "GM0715",
+      "report": "Jaarrekening",
+      "report_key": "2025X005",
+      "rows": 11310,
+      "rows_with_value_release1": 11172,
+      "rows_with_value_release2": 11172,
+      "total_expenses_keur": 252839
+    }
+  ]
+}

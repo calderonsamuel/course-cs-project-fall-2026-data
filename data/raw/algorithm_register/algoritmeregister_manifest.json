@@ -1,0 +1,48 @@
+{
+  "source": "https://algoritmes.overheid.nl",
+  "api_description": "https://algoritmes.overheid.nl/api/openapi.json",
+  "language": "NLD",
+  "retrieved_at": "2026-10-02T02:19:39-0500",
+  "r_version": "R version 4.5.3 (2026-03-11 ucrt)",
+  "municipality_patterns": {
+    "amsterdam": "^gemeente amsterdam$",
+    "den_haag": "^gemeente (den haag|'s-gravenhage)$",
+    "terneuzen": "^gemeente terneuzen$"
+  },
+  "current": {
+    "url": "https://algoritmes.overheid.nl/api/downloads/NLD?filetype=csv",
+    "status": 200,
+    "content_type": "text/csv; charset=utf-8",
+    "file": "algoritmeregister_NLD_current.csv",
+    "bytes": 6429502,
+    "md5": "579485bec8543cd6eae23a952cf56b03",
+    "separator": ",",
+    "n_rows": 1573,
+    "columns": ["name", "organization", "description_short", "category", "website", "status", "goal", "proportionality", "lawful_basis", "standard_version", "url", "contact_email", "publiccode", "source_data", "methods_and_models", "human_intervention", "risks", "provider", "process_index_url", "tags", "source_id", "begin_date", "end_date", "impacttoetsen", "publication_category", "lawful_basis_grouping", "impacttoetsen_grouping", "source_data_grouping", "algorithm_id", "org_id", "publication_dt"],
+    "organisation_column": "organization",
+    "rows_per_municipality": {
+      "amsterdam": 72,
+      "den_haag": 44,
+      "terneuzen": 11
+    },
+    "n_organisations": 340
+  },
+  "history": {
+    "url": "https://algoritmes.overheid.nl/api/downloads/history/NLD?filetype=csv",
+    "status": 200,
+    "content_type": "text/csv; charset=utf-8",
+    "file": "algoritmeregister_NLD_history.csv",
+    "bytes": 12524985,
+    "md5": "e505abf50cc76b368d88afac31096b75",
+    "separator": ",",
+    "n_rows": 2980,
+    "columns": ["name", "organization", "description_short", "category", "website", "status", "goal", "proportionality", "lawful_basis", "standard_version", "url", "contact_email", "publiccode", "source_data", "methods_and_models", "human_intervention", "risks", "provider", "process_index_url", "tags", "source_id", "begin_date", "end_date", "impacttoetsen", "publication_category", "lawful_basis_grouping", "impacttoetsen_grouping", "source_data_grouping", "algorithm_id", "org_id", "publication_dt", "type", "iama_description", "uuid", "lawful_basis_link", "source_data_link", "department", "impact", "decision_making_process", "documentation", "competent_authority", "iama", "dpia", "dpia_description", "objection_procedure", "area", "revision_date", "description", "application_url", "mprd", "monitoring", "performance_standard"],
+    "organisation_column": "organization",
+    "rows_per_municipality": {
+      "amsterdam": 350,
+      "den_haag": 134,
+      "terneuzen": 13
+    },
+    "n_organisations": 351
+  }
+}

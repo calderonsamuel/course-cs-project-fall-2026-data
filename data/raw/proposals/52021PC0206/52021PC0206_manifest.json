@@ -1,0 +1,20 @@
+{
+  "celex": "52021PC0206",
+  "cellar_url": "http://publications.europa.eu/resource/celex/52021PC0206",
+  "language": "eng",
+  "retrieved_at": "2026-09-28T05:39:40-0500",
+  "items": [
+    {
+      "file": "52021PC0206_en_1.xhtml",
+      "source_url": "http://publications.europa.eu/resource/cellar/e0649735-a372-11eb-9585-01aa75ed71a1.0001.03/DOC_1",
+      "bytes": 589284,
+      "md5": "e9c136d1f8fcf8aab98005a625f175a8"
+    },
+    {
+      "file": "52021PC0206_en_2.xhtml",
+      "source_url": "http://publications.europa.eu/resource/cellar/e0649735-a372-11eb-9585-01aa75ed71a1.0001.03/DOC_3",
+      "bytes": 57910,
+      "md5": "c6c5305f2abc67720d73066ecdff5134"
+    }
+  ]
+}

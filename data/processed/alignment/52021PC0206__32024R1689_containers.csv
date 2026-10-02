@@ -1,0 +1,87 @@
+"new_container","new_heading","old_container","old_heading","score"
+"art1","Subject matter`","art1","Subject matter",0.542
+"art2","Scope","art2","Scope",0.625
+"art3","Definitions","art3","Definitions",0.872
+"art5","Prohibited AI practices","art5","",0.625
+"art6","Classification rules for high-risk AI systems","art6","Classification rules for high-risk AI systems",0.639
+"art7","Amendments to Annex III","art7","Amendments to Annex III",0.829
+"art8","Compliance with the requirements","art8","Compliance with the requirements",0.492
+"art9","Risk management system","art9","Risk management system",0.848
+"art10","Data and data governance","art10","Data and data governance",0.771
+"art11","Technical documentation","art11","Technical documentation",0.795
+"art12","Record-keeping","art12","Record-keeping",0.823
+"art13","Transparency and provision of information to deployers","art13","Transparency and provision of information to users",0.908
+"art14","Human oversight","art14","Human oversight",0.845
+"art15","Accuracy, robustness and cybersecurity","art15","Accuracy, robustness and cybersecurity",0.812
+"art16","Obligations of providers of high-risk AI systems","art16","Obligations of providers of high-risk AI systems",0.659
+"art17","Quality management system","art17","Quality management system",0.897
+"art18","Documentation keeping","art50","Document retention",0.565
+"art19","Automatically generated logs","art20","Automatically generated logs",0.676
+"art20","Corrective actions and duty of information","art21","Corrective actions",0.67
+"art21","Cooperation with competent authorities","art23","Cooperation with competent authorities",0.652
+"art22","Authorised representatives of providers of high-risk AI systems","art25","Authorised representatives",0.642
+"art23","Obligations of importers","art26","Obligations of importers",0.789
+"art24","Obligations of distributors","art27","Obligations of distributors",0.854
+"art25","Responsibilities along the AI value chain","art28","Obligations of distributors, importers, users or any other third-party",0.448
+"art26","Obligations of deployers of high-risk AI systems","art29","Obligations of users of high-risk AI systems",0.689
+"art28","Notifying authorities","art30","Notifying authorities",0.824
+"art29","Application of a conformity assessment body for notification","art31","Application of a conformity assessment body for notification",0.905
+"art30","Notification procedure","art32","Notification procedure",0.694
+"art31","Requirements relating to notified bodies","art33","Notified bodies",0.786
+"art32","Presumption of conformity with requirements relating to notified bodies","art40","Harmonised standards",0.474
+"art33","Subsidiaries of notified bodies and subcontracting","art34","Subsidiaries of and subcontracting by notified bodies",0.817
+"art35","Identification numbers and lists of notified bodies","art35","Identification numbers and lists of notified bodies designated under this Regulation",0.729
+"art36","Changes to notifications","art36","Changes to notifications",0.63
+"art37","Challenge to the competence of notified bodies","art37","Challenge to the competence of notified bodies",0.757
+"art38","Coordination of notified bodies","art38","Coordination of notified bodies",0.767
+"art39","Conformity assessment bodies of third countries","art39","Conformity assessment bodies of third countries",0.833
+"art41","Common specifications","art41","Common specifications",0.523
+"art42","Presumption of conformity with certain requirements","art42","Presumption of conformity with certain requirements",0.878
+"art43","Conformity assessment","art43","Conformity assessment",0.915
+"art44","Certificates","art44","Certificates",0.741
+"art45","Information obligations of notified bodies","art46","Information obligations of notified bodies",0.97
+"art46","Derogation from conformity assessment procedure","art47","Derogation from conformity assessment procedure",0.832
+"art47","EU declaration of conformity","art48","EU declaration of conformity",0.927
+"art48","CE marking","art49","CE marking of conformity",0.801
+"art49","Registration","art51","Registration",0.591
+"art50","Transparency obligations for providers and deployers of certain AI systems","art52","Transparency obligations for certain AI systems",0.63
+"art57","AI regulatory sandboxes","art53","AI regulatory sandboxes",0.712
+"art59","Further processing of personal data for developing certain AI systems in the public interest in the AI regulatory sandbox","art54","Further processing of personal data for developing certain AI systems in the public interest in the AI regulatory sandbox",0.851
+"art62","Measures for providers and deployers, in particular SMEs, including start-ups","art55","Measures for small-scale providers and users",0.444
+"art65","Establishment and structure of the European Artificial Intelligence Board","art57","Structure of the Board",0.509
+"art66","Tasks of the Board","art58","Tasks of the Board",0.524
+"art70","Designation of national competent authorities and single points of contact","art59","Designation of national competent authorities",0.677
+"art71","EU database for high-risk AI systems listed in Annex III","art60","EU database for stand-alone high-risk AI systems",0.629
+"art72","Post-market monitoring by providers and post-market monitoring plan for high-risk AI systems","art61","Post-market monitoring by providers and post-market monitoring plan for high-risk AI systems",0.843
+"art73","Reporting of serious incidents","art62","Reporting of serious incidents and of malfunctioning",0.548
+"art74","Market surveillance and control of AI systems in the Union market","art63","Market surveillance and control of AI systems in the Union market",0.773
+"art77","Powers of authorities protecting fundamental rights","art64","Access to data and documentation",0.612
+"art78","Confidentiality","art70","Confidentiality",0.825
+"art79","Procedure at national level for dealing with AI systems presenting a risk","art65","Procedure for dealing with AI systems presenting a risk at national level",0.883
+"art81","Union safeguard procedure","art66","Union safeguard procedure",0.782
+"art82","Compliant AI systems which present a risk","art67","Compliant AI systems which present a risk",0.869
+"art83","Formal non-compliance","art68","Formal non-compliance",0.813
+"art95","Codes of conduct for voluntary application of specific requirements","art69","Codes of conduct",0.641
+"art97","Exercise of the delegation","art73","Exercise of the delegation",0.81
+"art98","Committee procedure","art74","Committee procedure",1
+"art99","Penalties","art71","Penalties",0.773
+"art100","Administrative fines on Union institutions, bodies, offices and agencies","art72","Administrative fines on Union institutions, agencies and bodies",0.751
+"art102","Amendment to Regulation (EC) No 300/2008","art75","Amendment to Regulation (EC) No 300/2008",0.808
+"art103","Amendment to Regulation (EU) No 167/2013","art76","Amendment to Regulation (EU) No 167/2013",0.786
+"art104","Amendment to Regulation (EU) No 168/2013","art77","Amendment to Regulation (EU) No 168/2013",0.786
+"art105","Amendment to Directive 2014/90/EU","art78","Amendment to Directive 2014/90/EU",0.801
+"art106","Amendment to Directive (EU) 2016/797","art79","Amendment to Directive (EU) 2016/797",0.803
+"art107","Amendment to Regulation (EU) 2018/858","art80","Amendment to Regulation (EU) 2018/858",0.775
+"art108","Amendments to Regulation (EU) 2018/1139","art81","Amendment to Regulation (EU) 2018/1139",0.722
+"art109","Amendment to Regulation (EU) 2019/2144","art82","Amendment to Regulation (EU) 2019/2144",0.781
+"art111","AI systems already placed on the market or put into service and general-purpose AI models already placed on the marked","art83","AI systems already placed on the market or put into service",0.579
+"art112","Evaluation and review","art84","Evaluation and review",0.729
+"art113","Entry into force and application","art85","Entry into force and application",0.495
+"anxI","List of Union harmonisation legislation","anxII","LIST OF UNION HARMONISATION LEGISLATION",0.997
+"anxIII","High-risk AI systems referred to in Article 6(2)","anxIII","HIGH-RISK AI SYSTEMS REFERRED TO IN ARTICLE 6(2)",0.804
+"anxIV","Technical documentation referred to in Article 11(1)","anxIV","TECHNICAL DOCUMENTATION referred to in Article 11(1)",0.942
+"anxV","EU declaration of conformity","anxV","EU DECLARATION OF CONFORMITY",0.871
+"anxVI","Conformity assessment procedure based on internal control","anxVI","CONFORMITY ASSESSMENT PROCEDURE BASED ON INTERNAL CONTROL",0.949
+"anxVII","Conformity based on an assessment of the quality management system and an assessment of the technical documentation","anxVII","CONFORMITY BASED ON ASSESSMENT OF QUALITY MANAGEMENT SYSTEM AND ASSESSMENT OF TECHNICAL DOCUMENTATION",0.894
+"anxVIII","Information to be submitted upon the registration of high-risk AI systems in accordance with Article 49","anxVIII","INFORMATION TO BE SUBMITTED UPON THE REGISTRATION OF HIGH-RISK AI SYSTEMS IN ACCORDANCE WITH ARTICLE 51",0.815
+"anxX","","anxIX","Union legislation ON large-scale IT systems in the area of Freedom, Security and Justice",0.733

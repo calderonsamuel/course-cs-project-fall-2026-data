@@ -1,0 +1,18 @@
+pattern,taakveld,taakveld_title,note
+"\b(woz|waarder)",0.61,OZB woningen,Property valuation; also 0.62 for non-residential
+"\b(parkeer|parkeren|parkeergarage|parkeercontrole)",2.2,Parkeren,
+"\b(kenteken|scanauto|milieuzone|zero-emissie)",2.1,Verkeer en vervoer,Number-plate recognition; parking scan cars go to 2.2 via the parking rule
+"\b(bijstand|levensonderhoud|participatiewet|bbz|kwijtschelding|armoede|inkomens)",6.3,Inkomensregelingen,Social assistance and income support
+"\bwmo\b",6.21,Toegang en eerstelijnsvoorz. WMO,
+"\bjeugd",6.22,Toegang en eerstelijnsvoorz. Jeugd,
+"\b(burgerzaken|rni|paspoort|reisdocument|brp|adreskwaliteit|edienst)",0.2,Burgerzaken,Civil affairs and population register
+"\b(afval|orac|bijplaatsing|container)",7.3,Afval,
+"\b(riool|riolering)",7.2,Riolering,
+"\b(ggd|gezondheid|corona)",7.1,Volksgezondheid,
+"\b(vakantieverhuur|onderhuur|toeristische verhuur|opkoopbescherming|woonfraude)",8.3,Wonen en bouwen,Housing enforcement
+"\b(reclamebelasting|toeristenbelasting|precario)",0.64,Belastingen overig,
+"\b(camera|cameratoezicht|ondermijning|top600|veiligheid)",1.2,Openbare orde en veiligheid,
+"\b(gracht|passagiersvaart|ligplaats|haven)",2.3,Recreatieve havens,Check: commercial waterways may be 2.4
+"\b(loonwaarde|re-integratie|bijstand naar werk)",6.5,Arbeidsparticipatie,
+"\b(youforce|salaris|personeel|hr\b|factuur|copilot|deepl|chatbot|chatgpt|anonimiser|postex)",0.4,Overhead,Internal tools used across the organisation
+"\b(stembureau|verkiezing)",0.2,Burgerzaken,Elections are part of civil affairs

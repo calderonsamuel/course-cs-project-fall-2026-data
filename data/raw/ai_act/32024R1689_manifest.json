@@ -1,0 +1,160 @@
+{
+  "celex": "32024R1689",
+  "eli": "http://data.europa.eu/eli/reg/2024/1689/oj",
+  "cellar_url": "http://publications.europa.eu/resource/celex/32024R1689",
+  "language": "en",
+  "title": "Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence and amending Regulations (EC) No 300/2008, (EU) No 167/2013, (EU) No 168/2013, (EU) 2018/858, (EU) 2018/1139 and (EU) 2019/2144 and Directives 2014/90/EU, (EU) 2016/797 and (EU) 2020/1828 (Artificial Intelligence Act) (Text with EEA relevance)",
+  "retrieved_at": "2026-09-28T05:02:51-0500",
+  "eurlex_version": "0.5.0",
+  "r_version": "R version 4.5.3 (2026-03-11 ucrt)",
+  "notice": {
+    "file": "32024R1689_notice_tree.xml",
+    "bytes": 1138533,
+    "md5": "6fc275b724e8856fab3ef3dfec58d5ca",
+    "level": "tree",
+    "manifestation_types": ["fmx4", "pdfa2a", "xhtml", "xhtml5"]
+  },
+  "fmx4": {
+    "retrieved": true,
+    "http_status": 200,
+    "source_url": "http://publications.europa.eu/resource/cellar/dc8116a1-3fe6-11ef-865a-01aa75ed71a1.0006.02/zip",
+    "zip": {
+      "file": "32024R1689_fmx4.zip",
+      "bytes": 171490,
+      "md5": "6d0b9c09f4f43495bf36dcd2dbe88f7e"
+    },
+    "files": [
+      {
+        "file": "L_202401689EN.toc.fmx.xml",
+        "bytes": 1013,
+        "md5": "42e18b33342e7dfda27de6b4a59b2389",
+        "root": "PUBLICATION"
+      },
+      {
+        "file": "L_202401689EN.doc.fmx.xml",
+        "bytes": 4941,
+        "md5": "19c4ffdb9cc0092f3ff2ffa5e764bc9f",
+        "root": "DOC"
+      },
+      {
+        "file": "L_202401689EN.000101.fmx.xml",
+        "bytes": 653873,
+        "md5": "158c753886c3b87e202effee9d554566",
+        "root": "ACT"
+      },
+      {
+        "file": "L_202401689EN.012401.fmx.xml",
+        "bytes": 9799,
+        "md5": "70a71b6787aee657bd2a332bd1f4fa45",
+        "root": "ANNEX"
+      },
+      {
+        "file": "L_202401689EN.012601.fmx.xml",
+        "bytes": 2024,
+        "md5": "88107bbb959b40d407a858e401b3e090",
+        "root": "ANNEX"
+      },
+      {
+        "file": "L_202401689EN.012701.fmx.xml",
+        "bytes": 9933,
+        "md5": "0111fc48e7f64d69dd1c5bfee8642b8f",
+        "root": "ANNEX"
+      },
+      {
+        "file": "L_202401689EN.013001.fmx.xml",
+        "bytes": 7873,
+        "md5": "a41c413c5efbca41bd698535c59d2458",
+        "root": "ANNEX"
+      },
+      {
+        "file": "L_202401689EN.013201.fmx.xml",
+        "bytes": 2653,
+        "md5": "994b0261d14a310552e8822d6bdd9f54",
+        "root": "ANNEX"
+      },
+      {
+        "file": "L_202401689EN.013301.fmx.xml",
+        "bytes": 1696,
+        "md5": "d29a830f303298e8952e7b1db6ddfef5",
+        "root": "ANNEX"
+      },
+      {
+        "file": "L_202401689EN.013401.fmx.xml",
+        "bytes": 10184,
+        "md5": "c2b3af5c3529164af5f79990bb71858c",
+        "root": "ANNEX"
+      },
+      {
+        "file": "L_202401689EN.013601.fmx.xml",
+        "bytes": 6334,
+        "md5": "3eab64161d6b8b48e14e4a9789d464c7",
+        "root": "ANNEX"
+      },
+      {
+        "file": "L_202401689EN.013801.fmx.xml",
+        "bytes": 1994,
+        "md5": "902227089d9eb07df41150816d2ea452",
+        "root": "ANNEX"
+      },
+      {
+        "file": "L_202401689EN.013901.fmx.xml",
+        "bytes": 8768,
+        "md5": "0e7790df8acd53415c125d7bdb7e89c2",
+        "root": "ANNEX"
+      },
+      {
+        "file": "L_202401689EN.014101.fmx.xml",
+        "bytes": 4865,
+        "md5": "bb5c76523ca0450cdfaaa32373f2fbc2",
+        "root": "ANNEX"
+      },
+      {
+        "file": "L_202401689EN.014301.fmx.xml",
+        "bytes": 3049,
+        "md5": "520a68bebaf269e78ea4c9563fc71947",
+        "root": "ANNEX"
+      },
+      {
+        "file": "L_202401689EN.014401.fmx.xml",
+        "bytes": 2719,
+        "md5": "e033ed403ed876bfe135eac1a5c9cf04",
+        "root": "ANNEX"
+      }
+    ],
+    "counts": {
+      "recitals": 180,
+      "articles": 113,
+      "annexes": 13
+    },
+    "counts_match_expected": {
+      "recitals": true,
+      "articles": true,
+      "annexes": true
+    }
+  },
+  "xhtml": {
+    "retrieved": true,
+    "http_status": 200,
+    "source_url": "http://publications.europa.eu/resource/cellar/dc8116a1-3fe6-11ef-865a-01aa75ed71a1.0006.03/DOC_1",
+    "file": {
+      "file": "32024R1689_en.xhtml",
+      "bytes": 1262391,
+      "md5": "6e1ee6cfee775c97d0c50043964ea128"
+    },
+    "counts": {
+      "recitals": 180,
+      "articles": 113,
+      "annexes": 13
+    },
+    "counts_match_expected": {
+      "recitals": true,
+      "articles": true,
+      "annexes": true
+    }
+  },
+  "expected": {
+    "recitals": 180,
+    "articles": 113,
+    "annexes": 13
+  }
+}

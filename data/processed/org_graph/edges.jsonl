@@ -1,0 +1,607 @@
+{"from":"GM0363","to":"sys:44851255","type":"operates","source":"register_current","source_ref":44851255,"confidence":"high"}
+{"from":"GM0715","to":"sys:34495650","type":"operates","source":"register_current","source_ref":34495650,"confidence":"high"}
+{"from":"GM0715","to":"sys:34647484","type":"operates","source":"register_current","source_ref":34647484,"confidence":"high"}
+{"from":"GM0715","to":"sys:96578966","type":"operates","source":"register_current","source_ref":96578966,"confidence":"high"}
+{"from":"GM0363","to":"sys:76551752","type":"operates","source":"register_current","source_ref":76551752,"confidence":"high"}
+{"from":"GM0363","to":"sys:62595764","type":"operates","source":"register_current","source_ref":62595764,"confidence":"high"}
+{"from":"GM0518","to":"sys:15733766","type":"operates","source":"register_current","source_ref":15733766,"confidence":"high"}
+{"from":"GM0363","to":"sys:67349731","type":"operates","source":"register_current","source_ref":67349731,"confidence":"high"}
+{"from":"GM0715","to":"sys:98139499","type":"operates","source":"register_current","source_ref":98139499,"confidence":"high"}
+{"from":"GM0363","to":"sys:41839733","type":"operates","source":"register_current","source_ref":41839733,"confidence":"high"}
+{"from":"GM0363","to":"sys:68912459","type":"operates","source":"register_current","source_ref":68912459,"confidence":"high"}
+{"from":"GM0715","to":"sys:52549537","type":"operates","source":"register_current","source_ref":52549537,"confidence":"high"}
+{"from":"GM0363","to":"sys:32576955","type":"operates","source":"register_current","source_ref":32576955,"confidence":"high"}
+{"from":"GM0363","to":"sys:89936652","type":"operates","source":"register_current","source_ref":89936652,"confidence":"high"}
+{"from":"GM0363","to":"sys:61644263","type":"operates","source":"register_current","source_ref":61644263,"confidence":"high"}
+{"from":"GM0715","to":"sys:92925234","type":"operates","source":"register_current","source_ref":92925234,"confidence":"high"}
+{"from":"GM0715","to":"sys:89219124","type":"operates","source":"register_current","source_ref":89219124,"confidence":"high"}
+{"from":"GM0715","to":"sys:58493843","type":"operates","source":"register_current","source_ref":58493843,"confidence":"high"}
+{"from":"GM0715","to":"sys:63927968","type":"operates","source":"register_current","source_ref":63927968,"confidence":"high"}
+{"from":"GM0715","to":"sys:82933890","type":"operates","source":"register_current","source_ref":82933890,"confidence":"high"}
+{"from":"GM0518","to":"sys:57325978","type":"operates","source":"register_current","source_ref":57325978,"confidence":"high"}
+{"from":"GM0518","to":"sys:55362362","type":"operates","source":"register_current","source_ref":55362362,"confidence":"high"}
+{"from":"GM0518","to":"sys:16262977","type":"operates","source":"register_current","source_ref":16262977,"confidence":"high"}
+{"from":"GM0363","to":"sys:29355466","type":"operates","source":"register_current","source_ref":29355466,"confidence":"high"}
+{"from":"GM0518","to":"sys:17542829","type":"operates","source":"register_current","source_ref":17542829,"confidence":"high"}
+{"from":"GM0518","to":"sys:47168770","type":"operates","source":"register_current","source_ref":47168770,"confidence":"high"}
+{"from":"GM0363","to":"sys:28751641","type":"operates","source":"register_current","source_ref":28751641,"confidence":"high"}
+{"from":"GM0363","to":"sys:39231781","type":"operates","source":"register_current","source_ref":39231781,"confidence":"high"}
+{"from":"GM0363","to":"sys:45171996","type":"operates","source":"register_current","source_ref":45171996,"confidence":"high"}
+{"from":"GM0363","to":"sys:76679272","type":"operates","source":"register_current","source_ref":76679272,"confidence":"high"}
+{"from":"GM0363","to":"sys:29564213","type":"operates","source":"register_current","source_ref":29564213,"confidence":"high"}
+{"from":"GM0363","to":"sys:43981944","type":"operates","source":"register_current","source_ref":43981944,"confidence":"high"}
+{"from":"GM0363","to":"sys:61944129","type":"operates","source":"register_current","source_ref":61944129,"confidence":"high"}
+{"from":"GM0518","to":"sys:57358622","type":"operates","source":"register_current","source_ref":57358622,"confidence":"high"}
+{"from":"GM0518","to":"sys:79654643","type":"operates","source":"register_current","source_ref":79654643,"confidence":"high"}
+{"from":"GM0518","to":"sys:91243788","type":"operates","source":"register_current","source_ref":91243788,"confidence":"high"}
+{"from":"GM0518","to":"sys:24724122","type":"operates","source":"register_current","source_ref":24724122,"confidence":"high"}
+{"from":"GM0518","to":"sys:93192327","type":"operates","source":"register_current","source_ref":93192327,"confidence":"high"}
+{"from":"GM0518","to":"sys:91611895","type":"operates","source":"register_current","source_ref":91611895,"confidence":"high"}
+{"from":"GM0363","to":"sys:27677810","type":"operates","source":"register_current","source_ref":27677810,"confidence":"high"}
+{"from":"GM0363","to":"sys:62444981","type":"operates","source":"register_current","source_ref":62444981,"confidence":"high"}
+{"from":"GM0363","to":"sys:68126546","type":"operates","source":"register_current","source_ref":68126546,"confidence":"high"}
+{"from":"GM0363","to":"sys:23372779","type":"operates","source":"register_current","source_ref":23372779,"confidence":"high"}
+{"from":"GM0363","to":"sys:59392590","type":"operates","source":"register_current","source_ref":59392590,"confidence":"high"}
+{"from":"GM0363","to":"sys:62573812","type":"operates","source":"register_current","source_ref":62573812,"confidence":"high"}
+{"from":"GM0363","to":"sys:19497482","type":"operates","source":"register_current","source_ref":19497482,"confidence":"high"}
+{"from":"GM0363","to":"sys:23189993","type":"operates","source":"register_current","source_ref":23189993,"confidence":"high"}
+{"from":"GM0363","to":"sys:37694526","type":"operates","source":"register_current","source_ref":37694526,"confidence":"high"}
+{"from":"GM0363","to":"sys:58953176","type":"operates","source":"register_current","source_ref":58953176,"confidence":"high"}
+{"from":"GM0363","to":"sys:57623362","type":"operates","source":"register_current","source_ref":57623362,"confidence":"high"}
+{"from":"GM0363","to":"sys:47842380","type":"operates","source":"register_current","source_ref":47842380,"confidence":"high"}
+{"from":"GM0363","to":"sys:38895425","type":"operates","source":"register_current","source_ref":38895425,"confidence":"high"}
+{"from":"GM0715","to":"sys:54434950","type":"operates","source":"register_current","source_ref":54434950,"confidence":"high"}
+{"from":"GM0363","to":"sys:11642321","type":"operates","source":"register_current","source_ref":11642321,"confidence":"high"}
+{"from":"GM0518","to":"sys:29627312","type":"operates","source":"register_current","source_ref":29627312,"confidence":"high"}
+{"from":"GM0518","to":"sys:63984978","type":"operates","source":"register_current","source_ref":63984978,"confidence":"high"}
+{"from":"GM0518","to":"sys:99156435","type":"operates","source":"register_current","source_ref":99156435,"confidence":"high"}
+{"from":"GM0363","to":"sys:17364371","type":"operates","source":"register_current","source_ref":17364371,"confidence":"high"}
+{"from":"GM0363","to":"sys:83287754","type":"operates","source":"register_current","source_ref":83287754,"confidence":"high"}
+{"from":"GM0363","to":"sys:79334684","type":"operates","source":"register_current","source_ref":79334684,"confidence":"high"}
+{"from":"GM0363","to":"sys:82118512","type":"operates","source":"register_current","source_ref":82118512,"confidence":"high"}
+{"from":"GM0363","to":"sys:19578675","type":"operates","source":"register_current","source_ref":19578675,"confidence":"high"}
+{"from":"GM0363","to":"sys:35672180","type":"operates","source":"register_current","source_ref":35672180,"confidence":"high"}
+{"from":"GM0363","to":"sys:66344559","type":"operates","source":"register_current","source_ref":66344559,"confidence":"high"}
+{"from":"GM0363","to":"sys:94352131","type":"operates","source":"register_current","source_ref":94352131,"confidence":"high"}
+{"from":"GM0363","to":"sys:53969675","type":"operates","source":"register_current","source_ref":53969675,"confidence":"high"}
+{"from":"GM0363","to":"sys:39981820","type":"operates","source":"register_current","source_ref":39981820,"confidence":"high"}
+{"from":"GM0363","to":"sys:56528956","type":"operates","source":"register_current","source_ref":56528956,"confidence":"high"}
+{"from":"GM0363","to":"sys:89247323","type":"operates","source":"register_current","source_ref":89247323,"confidence":"high"}
+{"from":"GM0518","to":"sys:49838288","type":"operates","source":"register_current","source_ref":49838288,"confidence":"high"}
+{"from":"GM0518","to":"sys:91584928","type":"operates","source":"register_current","source_ref":91584928,"confidence":"high"}
+{"from":"GM0518","to":"sys:36158892","type":"operates","source":"register_current","source_ref":36158892,"confidence":"high"}
+{"from":"GM0518","to":"sys:31934363","type":"operates","source":"register_current","source_ref":31934363,"confidence":"high"}
+{"from":"GM0363","to":"sys:67749951","type":"operates","source":"register_current","source_ref":67749951,"confidence":"high"}
+{"from":"GM0363","to":"sys:41958113","type":"operates","source":"register_current","source_ref":41958113,"confidence":"high"}
+{"from":"GM0363","to":"sys:37686130","type":"operates","source":"register_current","source_ref":37686130,"confidence":"high"}
+{"from":"GM0363","to":"sys:97733430","type":"operates","source":"register_current","source_ref":97733430,"confidence":"high"}
+{"from":"GM0363","to":"sys:98711983","type":"operates","source":"register_current","source_ref":98711983,"confidence":"high"}
+{"from":"GM0363","to":"sys:34637669","type":"operates","source":"register_current","source_ref":34637669,"confidence":"high"}
+{"from":"GM0363","to":"sys:95665519","type":"operates","source":"register_current","source_ref":95665519,"confidence":"high"}
+{"from":"GM0363","to":"sys:63555572","type":"operates","source":"register_current","source_ref":63555572,"confidence":"high"}
+{"from":"GM0363","to":"sys:35552693","type":"operates","source":"register_current","source_ref":35552693,"confidence":"high"}
+{"from":"GM0363","to":"sys:35337629","type":"operates","source":"register_current","source_ref":35337629,"confidence":"high"}
+{"from":"GM0363","to":"sys:33467665","type":"operates","source":"register_current","source_ref":33467665,"confidence":"high"}
+{"from":"GM0363","to":"sys:78991981","type":"operates","source":"register_current","source_ref":78991981,"confidence":"high"}
+{"from":"GM0363","to":"sys:54148866","type":"operates","source":"register_current","source_ref":54148866,"confidence":"high"}
+{"from":"GM0363","to":"sys:65572593","type":"operates","source":"register_current","source_ref":65572593,"confidence":"high"}
+{"from":"GM0363","to":"sys:14365850","type":"operates","source":"register_current","source_ref":14365850,"confidence":"high"}
+{"from":"GM0363","to":"sys:59759977","type":"operates","source":"register_current","source_ref":59759977,"confidence":"high"}
+{"from":"GM0363","to":"sys:68547699","type":"operates","source":"register_current","source_ref":68547699,"confidence":"high"}
+{"from":"GM0363","to":"sys:95794697","type":"operates","source":"register_current","source_ref":95794697,"confidence":"high"}
+{"from":"GM0363","to":"sys:54438848","type":"operates","source":"register_current","source_ref":54438848,"confidence":"high"}
+{"from":"GM0363","to":"sys:58766226","type":"operates","source":"register_current","source_ref":58766226,"confidence":"high"}
+{"from":"GM0363","to":"sys:11243612","type":"operates","source":"register_current","source_ref":11243612,"confidence":"high"}
+{"from":"GM0518","to":"sys:46768937","type":"operates","source":"register_current","source_ref":46768937,"confidence":"high"}
+{"from":"GM0518","to":"sys:57517331","type":"operates","source":"register_current","source_ref":57517331,"confidence":"high"}
+{"from":"GM0518","to":"sys:95818782","type":"operates","source":"register_current","source_ref":95818782,"confidence":"high"}
+{"from":"GM0518","to":"sys:46779276","type":"operates","source":"register_current","source_ref":46779276,"confidence":"high"}
+{"from":"GM0518","to":"sys:27924554","type":"operates","source":"register_current","source_ref":27924554,"confidence":"high"}
+{"from":"GM0518","to":"sys:53531982","type":"operates","source":"register_current","source_ref":53531982,"confidence":"high"}
+{"from":"GM0518","to":"sys:22733216","type":"operates","source":"register_current","source_ref":22733216,"confidence":"high"}
+{"from":"GM0518","to":"sys:86652588","type":"operates","source":"register_current","source_ref":86652588,"confidence":"high"}
+{"from":"GM0518","to":"sys:54281370","type":"operates","source":"register_current","source_ref":54281370,"confidence":"high"}
+{"from":"GM0518","to":"sys:71627856","type":"operates","source":"register_current","source_ref":71627856,"confidence":"high"}
+{"from":"GM0518","to":"sys:41525861","type":"operates","source":"register_current","source_ref":41525861,"confidence":"high"}
+{"from":"GM0518","to":"sys:32429839","type":"operates","source":"register_current","source_ref":32429839,"confidence":"high"}
+{"from":"GM0518","to":"sys:44714491","type":"operates","source":"register_current","source_ref":44714491,"confidence":"high"}
+{"from":"GM0518","to":"sys:67582219","type":"operates","source":"register_current","source_ref":67582219,"confidence":"high"}
+{"from":"GM0518","to":"sys:91458197","type":"operates","source":"register_current","source_ref":91458197,"confidence":"high"}
+{"from":"GM0518","to":"sys:56889459","type":"operates","source":"register_current","source_ref":56889459,"confidence":"high"}
+{"from":"GM0518","to":"sys:56214518","type":"operates","source":"register_current","source_ref":56214518,"confidence":"high"}
+{"from":"GM0518","to":"sys:48633752","type":"operates","source":"register_current","source_ref":48633752,"confidence":"high"}
+{"from":"GM0518","to":"sys:64871989","type":"operates","source":"register_current","source_ref":64871989,"confidence":"high"}
+{"from":"GM0518","to":"sys:93839192","type":"operates","source":"register_current","source_ref":93839192,"confidence":"high"}
+{"from":"GM0518","to":"sys:98936960","type":"operates","source":"register_current","source_ref":98936960,"confidence":"high"}
+{"from":"GM0518","to":"sys:58239517","type":"operates","source":"register_current","source_ref":58239517,"confidence":"high"}
+{"from":"GM0518","to":"sys:83779930","type":"operates","source":"register_current","source_ref":83779930,"confidence":"high"}
+{"from":"GM0518","to":"sys:94936689","type":"operates","source":"register_current","source_ref":94936689,"confidence":"high"}
+{"from":"GM0518","to":"sys:97246956","type":"operates","source":"register_current","source_ref":97246956,"confidence":"high"}
+{"from":"GM0363","to":"sys:16268148","type":"operates","source":"register_current","source_ref":16268148,"confidence":"high"}
+{"from":"GM0363","to":"sys:38748497","type":"operates","source":"register_current","source_ref":38748497,"confidence":"high"}
+{"from":"GM0363","to":"sys:67971871","type":"operates","source":"register_current","source_ref":67971871,"confidence":"high"}
+{"from":"GM0363","to":"sys:78451490","type":"operates","source":"register_current","source_ref":78451490,"confidence":"high"}
+{"from":"GM0363","to":"sys:21579514","type":"operates","source":"register_current","source_ref":21579514,"confidence":"high"}
+{"from":"GM0363","to":"sys:99175375","type":"operates","source":"register_current","source_ref":99175375,"confidence":"high"}
+{"from":"GM0363","to":"sys:66453169","type":"operates","source":"register_current","source_ref":66453169,"confidence":"high"}
+{"from":"GM0363","to":"sys:75856898","type":"operates","source":"register_current","source_ref":75856898,"confidence":"high"}
+{"from":"GM0363","to":"GM0363:dept:directie-wonen-toezicht-en-handhaving","type":"has_department","source":"register_history","source_ref":99175375,"confidence":"high"}
+{"from":"GM0518","to":"GM0518:dept:stadsbeheer","type":"has_department","source":"register_history","source_ref":98936960,"confidence":"high"}
+{"from":"GM0518","to":"GM0518:dept:onderwijs-cultuur-en-welzijn","type":"has_department","source":"register_history","source_ref":97246956,"confidence":"high"}
+{"from":"GM0518","to":"GM0518:dept:stedelijke-ontwikkeling","type":"has_department","source":"register_history","source_ref":91458197,"confidence":"high"}
+{"from":"GM0518","to":"GM0518:dept:sociale-zaken-en-werkgelegenheidsprojecten","type":"has_department","source":"register_history","source_ref":86652588,"confidence":"high"}
+{"from":"GM0518","to":"GM0518:dept:bestuursdienst","type":"has_department","source":"register_history","source_ref":83779930,"confidence":"high"}
+{"from":"GM0363","to":"GM0363:dept:parkeren-team-analyse-advies","type":"has_department","source":"register_history","source_ref":78451490,"confidence":"high"}
+{"from":"GM0363","to":"GM0363:dept:actiecentrum-veiligheid-en-zorg-veiligheidshuis-amsterdam-amstelland","type":"has_department","source":"register_history","source_ref":75856898,"confidence":"high"}
+{"from":"GM0363","to":"GM0363:dept:directie-belastingen-waarderen-heffen-en-toezich","type":"has_department","source":"register_history","source_ref":67971871,"confidence":"high"}
+{"from":"GM0363","to":"GM0363:dept:directie-inkomen","type":"has_department","source":"register_history","source_ref":66453169,"confidence":"high"}
+{"from":"GM0518","to":"GM0518:dept:publiekszaken","type":"has_department","source":"register_history","source_ref":56889459,"confidence":"high"}
+{"from":"GM0363","to":"GM0363:dept:cto-innovatieteam","type":"has_department","source":"register_history","source_ref":38748497,"confidence":"high"}
+{"from":"GM0518","to":"GM0518:dept:bedrijfsvoering","type":"has_department","source":"register_history","source_ref":32429839,"confidence":"high"}
+{"from":"GM0363","to":"GM0363:dept:onderzoek-informatie-statistiek-ois","type":"has_department","source":"register_history","source_ref":21579514,"confidence":"high"}
+{"from":"GM0363:dept:directie-wonen-toezicht-en-handhaving","to":"sys:99175375","type":"runs","source":"register_history","source_ref":"99175375@2023-04-01 00:00:00+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0518:dept:stadsbeheer","to":"sys:98936960","type":"runs","source":"register_history","source_ref":"98936960@2023-10-05 10:04:26.332044+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0518:dept:onderwijs-cultuur-en-welzijn","to":"sys:97246956","type":"runs","source":"register_history","source_ref":"97246956@2023-10-05 10:04:59.495820+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0518:dept:stadsbeheer","to":"sys:95818782","type":"runs","source":"register_history","source_ref":"95818782@2024-04-30 09:23:07.273580+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0518:dept:stadsbeheer","to":"sys:94936689","type":"runs","source":"register_history","source_ref":"94936689@2023-10-05 10:04:49.001932+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0518:dept:stadsbeheer","to":"sys:93839192","type":"runs","source":"register_history","source_ref":"93839192@2023-10-05 10:04:13.358384+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0518:dept:onderwijs-cultuur-en-welzijn","to":"sys:91584928","type":"runs","source":"register_history","source_ref":"91584928@2023-12-18 16:21:08.222047+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0518:dept:stedelijke-ontwikkeling","to":"sys:91458197","type":"runs","source":"register_history","source_ref":"91458197@2023-12-18 16:19:56.898512+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0518:dept:sociale-zaken-en-werkgelegenheidsprojecten","to":"sys:86652588","type":"runs","source":"register_history","source_ref":"86652588@2024-04-30 08:57:01.128056+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0518:dept:bestuursdienst","to":"sys:83779930","type":"runs","source":"register_history","source_ref":"83779930@2023-10-04 08:15:13.268160+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0363:dept:parkeren-team-analyse-advies","to":"sys:78451490","type":"runs","source":"register_history","source_ref":"78451490@2023-04-01 00:00:00+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0363:dept:actiecentrum-veiligheid-en-zorg-veiligheidshuis-amsterdam-amstelland","to":"sys:75856898","type":"runs","source":"register_history","source_ref":"75856898@2023-04-01 00:00:00+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0518:dept:sociale-zaken-en-werkgelegenheidsprojecten","to":"sys:71627856","type":"runs","source":"register_history","source_ref":"71627856@2023-10-04 08:14:33.470474+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0363:dept:directie-belastingen-waarderen-heffen-en-toezich","to":"sys:67971871","type":"runs","source":"register_history","source_ref":"67971871@2023-04-01 00:00:00+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0518:dept:stedelijke-ontwikkeling","to":"sys:67582219","type":"runs","source":"register_history","source_ref":"67582219@2023-10-05 10:01:51.659412+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0363:dept:directie-inkomen","to":"sys:66453169","type":"runs","source":"register_history","source_ref":"66453169@2023-09-14 07:41:35.748340+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0518:dept:stadsbeheer","to":"sys:64871989","type":"runs","source":"register_history","source_ref":"64871989@2023-10-05 10:04:03.520336+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0518:dept:stedelijke-ontwikkeling","to":"sys:58239517","type":"runs","source":"register_history","source_ref":"58239517@2023-10-05 10:04:37.565933+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0518:dept:stadsbeheer","to":"sys:57517331","type":"runs","source":"register_history","source_ref":"57517331@2024-04-30 09:22:58.744487+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0518:dept:publiekszaken","to":"sys:56889459","type":"runs","source":"register_history","source_ref":"56889459@2023-10-05 10:03:08.408711+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0518:dept:stedelijke-ontwikkeling","to":"sys:56214518","type":"runs","source":"register_history","source_ref":"56214518@2023-10-05 10:03:29.482227+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0518:dept:sociale-zaken-en-werkgelegenheidsprojecten","to":"sys:54281370","type":"runs","source":"register_history","source_ref":"54281370@2024-04-30 08:57:10.396945+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0518:dept:stadsbeheer","to":"sys:53531982","type":"runs","source":"register_history","source_ref":"53531982@2023-10-05 10:49:05.277932+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0518:dept:stadsbeheer","to":"sys:49838288","type":"runs","source":"register_history","source_ref":"49838288@2023-12-18 16:20:56.526228+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0518:dept:stadsbeheer","to":"sys:48633752","type":"runs","source":"register_history","source_ref":"48633752@2023-10-05 10:03:41.323387+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0518:dept:publiekszaken","to":"sys:46779276","type":"runs","source":"register_history","source_ref":"46779276@2024-04-30 09:23:14.266296+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0518:dept:onderwijs-cultuur-en-welzijn","to":"sys:46768937","type":"runs","source":"register_history","source_ref":"46768937@2023-10-05 13:10:14.245305+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0518:dept:stadsbeheer","to":"sys:44714491","type":"runs","source":"register_history","source_ref":"44714491@2023-10-05 10:00:49.360687+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0518:dept:publiekszaken","to":"sys:41525861","type":"runs","source":"register_history","source_ref":"41525861@2023-10-05 10:00:19.983392+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0363:dept:cto-innovatieteam","to":"sys:38748497","type":"runs","source":"register_history","source_ref":"38748497@2023-04-01 00:00:00+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0518:dept:publiekszaken","to":"sys:36158892","type":"runs","source":"register_history","source_ref":"36158892@2023-12-18 16:20:45.177378+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0518:dept:bedrijfsvoering","to":"sys:32429839","type":"runs","source":"register_history","source_ref":"32429839@2023-10-05 10:00:34.852431+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0518:dept:onderwijs-cultuur-en-welzijn","to":"sys:31934363","type":"runs","source":"register_history","source_ref":"31934363@2023-12-18 16:20:31.920761+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0518:dept:publiekszaken","to":"sys:27924554","type":"runs","source":"register_history","source_ref":"27924554@2023-10-05 10:47:38.670338+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0518:dept:stadsbeheer","to":"sys:22733216","type":"runs","source":"register_history","source_ref":"22733216@2023-10-05 10:49:16.720526+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0363:dept:onderzoek-informatie-statistiek-ois","to":"sys:21579514","type":"runs","source":"register_history","source_ref":"21579514@2023-04-01 00:00:00+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"GM0363:dept:cto-innovatieteam","to":"sys:16268148","type":"runs","source":"register_history","source_ref":"16268148@2023-04-01 00:00:00+00:00","confidence":"medium","note":"department from an older version of the description"}
+{"from":"sys:44851255","to":"sup:indica","type":"supplied_by","source":"supplier_alias","source_ref":44851255,"confidence":"high"}
+{"from":"sys:34495650","to":"sup:postex","type":"supplied_by","source":"supplier_alias","source_ref":34495650,"confidence":"high"}
+{"from":"sys:34647484","to":"sup:whitevision","type":"supplied_by","source":"supplier_alias","source_ref":34647484,"confidence":"high"}
+{"from":"sys:96578966","to":"sup:visma","type":"supplied_by","source":"supplier_alias","source_ref":96578966,"confidence":"high"}
+{"from":"sys:62595764","to":"GM0363:sup:in-house","type":"supplied_by","source":"supplier_alias","source_ref":62595764,"confidence":"high"}
+{"from":"sys:15733766","to":"sup:ars-traffic-transport-technology","type":"supplied_by","source":"supplier_alias","source_ref":15733766,"confidence":"high"}
+{"from":"sys:67349731","to":"sup:struck","type":"supplied_by","source":"supplier_alias","source_ref":67349731,"confidence":"high"}
+{"from":"sys:98139499","to":"sup:microsoft","type":"supplied_by","source":"supplier_alias","source_ref":98139499,"confidence":"high"}
+{"from":"sys:41839733","to":"sup:itforcare","type":"supplied_by","source":"supplier_alias","source_ref":41839733,"confidence":"high"}
+{"from":"sys:52549537","to":"sup:wolters-kluwer","type":"supplied_by","source":"supplier_alias","source_ref":52549537,"confidence":"high"}
+{"from":"sys:89936652","to":"GM0363:sup:in-house","type":"supplied_by","source":"supplier_alias","source_ref":89936652,"confidence":"high"}
+{"from":"sys:61644263","to":"sup:github","type":"supplied_by","source":"supplier_alias","source_ref":61644263,"confidence":"high"}
+{"from":"sys:63927968","to":"sup:centric","type":"supplied_by","source":"supplier_alias","source_ref":63927968,"confidence":"high"}
+{"from":"sys:82933890","to":"sup:centric","type":"supplied_by","source":"supplier_alias","source_ref":82933890,"confidence":"high"}
+{"from":"sys:57325978","to":"sup:envision","type":"supplied_by","source":"supplier_alias","source_ref":57325978,"confidence":"high"}
+{"from":"sys:55362362","to":"sup:newdawn","type":"supplied_by","source":"supplier_alias","source_ref":55362362,"confidence":"high"}
+{"from":"sys:16262977","to":"sup:wigo4it","type":"supplied_by","source":"supplier_alias","source_ref":16262977,"confidence":"high"}
+{"from":"sys:17542829","to":"sup:newdawn","type":"supplied_by","source":"supplier_alias","source_ref":17542829,"confidence":"high"}
+{"from":"sys:47168770","to":"sup:connection-systems","type":"supplied_by","source":"supplier_alias","source_ref":47168770,"confidence":"high"}
+{"from":"sys:47168770","to":"sup:sigmax","type":"supplied_by","source":"supplier_alias","source_ref":47168770,"confidence":"high"}
+{"from":"sys:28751641","to":"sup:vyzyr","type":"supplied_by","source":"supplier_alias","source_ref":28751641,"confidence":"high"}
+{"from":"sys:39231781","to":"GM0363:sup:in-house","type":"supplied_by","source":"supplier_alias","source_ref":39231781,"confidence":"high"}
+{"from":"sys:45171996","to":"sup:google","type":"supplied_by","source":"supplier_alias","source_ref":45171996,"confidence":"high"}
+{"from":"sys:76679272","to":"sup:lumiguide","type":"supplied_by","source":"supplier_alias","source_ref":76679272,"confidence":"high"}
+{"from":"sys:29564213","to":"sup:civinc","type":"supplied_by","source":"supplier_alias","source_ref":29564213,"confidence":"high"}
+{"from":"sys:29564213","to":"sup:openai","type":"supplied_by","source":"supplier_alias","source_ref":29564213,"confidence":"high"}
+{"from":"sys:43981944","to":"sup:cognitec","type":"supplied_by","source":"supplier_alias","source_ref":43981944,"confidence":"high"}
+{"from":"sys:43981944","to":"sup:thales","type":"supplied_by","source":"supplier_alias","source_ref":43981944,"confidence":"high"}
+{"from":"sys:61944129","to":"sup:salesforce","type":"supplied_by","source":"supplier_alias","source_ref":61944129,"confidence":"high"}
+{"from":"sys:57358622","to":"sup:argaleo","type":"supplied_by","source":"supplier_alias","source_ref":57358622,"confidence":"high"}
+{"from":"sys:79654643","to":"sup:geronimo-ai","type":"supplied_by","source":"supplier_alias","source_ref":79654643,"confidence":"high"}
+{"from":"sys:93192327","to":"sup:cyclomedia","type":"supplied_by","source":"supplier_alias","source_ref":93192327,"confidence":"high"}
+{"from":"sys:91611895","to":"sup:de-wielick","type":"supplied_by","source":"supplier_alias","source_ref":91611895,"confidence":"high"}
+{"from":"sys:23372779","to":"sup:xs2audio","type":"supplied_by","source":"supplier_alias","source_ref":23372779,"confidence":"high"}
+{"from":"sys:23189993","to":"sup:openai","type":"supplied_by","source":"supplier_alias","source_ref":23189993,"confidence":"high"}
+{"from":"sys:23189993","to":"sup:mistral-ai","type":"supplied_by","source":"supplier_alias","source_ref":23189993,"confidence":"high"}
+{"from":"sys:23189993","to":"sup:microsoft","type":"supplied_by","source":"supplier_alias","source_ref":23189993,"confidence":"high"}
+{"from":"sys:57623362","to":"sup:go2people","type":"supplied_by","source":"supplier_alias","source_ref":57623362,"confidence":"high"}
+{"from":"sys:47842380","to":"GM0363:sup:in-house","type":"supplied_by","source":"supplier_alias","source_ref":47842380,"confidence":"high"}
+{"from":"sys:54434950","to":"sup:xxllnc","type":"supplied_by","source":"supplier_alias","source_ref":54434950,"confidence":"high"}
+{"from":"sys:63984978","to":"sup:mr-fill","type":"supplied_by","source":"supplier_alias","source_ref":63984978,"confidence":"high"}
+{"from":"sys:49838288","to":"sup:seagull-surveillance","type":"supplied_by","source":"supplier_alias","source_ref":49838288,"confidence":"high"}
+{"from":"sys:36158892","to":"sup:oribi","type":"supplied_by","source":"supplier_alias","source_ref":36158892,"confidence":"high"}
+{"from":"sys:41958113","to":"sup:connection-systems","type":"supplied_by","source":"supplier_alias","source_ref":41958113,"confidence":"high"}
+{"from":"sys:37686130","to":"GM0363:sup:in-house","type":"supplied_by","source":"supplier_alias","source_ref":37686130,"confidence":"high"}
+{"from":"sys:68547699","to":"sup:transkribus","type":"supplied_by","source":"supplier_alias","source_ref":68547699,"confidence":"high"}
+{"from":"sys:54438848","to":"sup:gripvol","type":"supplied_by","source":"supplier_alias","source_ref":54438848,"confidence":"high"}
+{"from":"sys:57517331","to":"sup:natix","type":"supplied_by","source":"supplier_alias","source_ref":57517331,"confidence":"high"}
+{"from":"sys:46779276","to":"sup:ai-tech","type":"supplied_by","source":"supplier_alias","source_ref":46779276,"confidence":"high"}
+{"from":"sys:86652588","to":"sup:wigo4it","type":"supplied_by","source":"supplier_alias","source_ref":86652588,"confidence":"high"}
+{"from":"sys:54281370","to":"sup:wigo4it","type":"supplied_by","source":"supplier_alias","source_ref":54281370,"confidence":"high"}
+{"from":"sys:48633752","to":"sup:codingconnected","type":"supplied_by","source":"supplier_alias","source_ref":48633752,"confidence":"high"}
+{"from":"sys:64871989","to":"sup:dtv-consultants","type":"supplied_by","source":"supplier_alias","source_ref":64871989,"confidence":"high"}
+{"from":"sys:94936689","to":"sup:ars-traffic-transport-technology","type":"supplied_by","source":"supplier_alias","source_ref":94936689,"confidence":"high"}
+{"from":"sys:16268148","to":"GM0363:sup:in-house","type":"supplied_by","source":"supplier_alias","source_ref":16268148,"confidence":"high"}
+{"from":"sys:66453169","to":"sup:xxllnc","type":"supplied_by","source":"supplier_alias","source_ref":66453169,"confidence":"high"}
+{"from":"GM0363","to":"GM0363:tf:0.1","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 0.1","confidence":"high","budget_2025_keur":51595}
+{"from":"GM0363","to":"GM0363:tf:0.2","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 0.2","confidence":"high","budget_2025_keur":65504}
+{"from":"GM0363","to":"GM0363:tf:0.3","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 0.3","confidence":"high","budget_2025_keur":38559}
+{"from":"GM0363","to":"GM0363:tf:0.4","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 0.4","confidence":"high","budget_2025_keur":660148}
+{"from":"GM0363","to":"GM0363:tf:0.5","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 0.5","confidence":"high","budget_2025_keur":86456}
+{"from":"GM0363","to":"GM0363:tf:0.7","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 0.7","confidence":"high","budget_2025_keur":296}
+{"from":"GM0363","to":"GM0363:tf:0.8","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 0.8","confidence":"high","budget_2025_keur":-766}
+{"from":"GM0363","to":"GM0363:tf:0.9","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 0.9","confidence":"high","budget_2025_keur":1869}
+{"from":"GM0363","to":"GM0363:tf:0.10","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 0.10","confidence":"high","budget_2025_keur":0}
+{"from":"GM0363","to":"GM0363:tf:0.11","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 0.11","confidence":"high","budget_2025_keur":0}
+{"from":"GM0363","to":"GM0363:tf:0.61","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 0.61","confidence":"high","budget_2025_keur":32941}
+{"from":"GM0363","to":"GM0363:tf:0.62","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 0.62","confidence":"high","budget_2025_keur":0}
+{"from":"GM0363","to":"GM0363:tf:0.63","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 0.63","confidence":"high","budget_2025_keur":45660}
+{"from":"GM0363","to":"GM0363:tf:0.64","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 0.64","confidence":"high","budget_2025_keur":1089}
+{"from":"GM0363","to":"GM0363:tf:1.1","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 1.1","confidence":"high","budget_2025_keur":102079}
+{"from":"GM0363","to":"GM0363:tf:1.2","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 1.2","confidence":"high","budget_2025_keur":193259}
+{"from":"GM0363","to":"GM0363:tf:2.1","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 2.1","confidence":"high","budget_2025_keur":537500}
+{"from":"GM0363","to":"GM0363:tf:2.2","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 2.2","confidence":"high","budget_2025_keur":79765}
+{"from":"GM0363","to":"GM0363:tf:2.3","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 2.3","confidence":"high","budget_2025_keur":0}
+{"from":"GM0363","to":"GM0363:tf:2.4","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 2.4","confidence":"high","budget_2025_keur":39415}
+{"from":"GM0363","to":"GM0363:tf:2.5","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 2.5","confidence":"high","budget_2025_keur":100571}
+{"from":"GM0363","to":"GM0363:tf:3.1","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 3.1","confidence":"high","budget_2025_keur":25082}
+{"from":"GM0363","to":"GM0363:tf:3.2","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 3.2","confidence":"high","budget_2025_keur":97757}
+{"from":"GM0363","to":"GM0363:tf:3.3","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 3.3","confidence":"high","budget_2025_keur":187513}
+{"from":"GM0363","to":"GM0363:tf:3.4","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 3.4","confidence":"high","budget_2025_keur":26515}
+{"from":"GM0363","to":"GM0363:tf:4.1","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 4.1","confidence":"high","budget_2025_keur":10238}
+{"from":"GM0363","to":"GM0363:tf:4.2","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 4.2","confidence":"high","budget_2025_keur":122815}
+{"from":"GM0363","to":"GM0363:tf:4.3","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 4.3","confidence":"high","budget_2025_keur":175485}
+{"from":"GM0363","to":"GM0363:tf:5.1","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 5.1","confidence":"high","budget_2025_keur":26049}
+{"from":"GM0363","to":"GM0363:tf:5.2","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 5.2","confidence":"high","budget_2025_keur":82087}
+{"from":"GM0363","to":"GM0363:tf:5.3","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 5.3","confidence":"high","budget_2025_keur":174634}
+{"from":"GM0363","to":"GM0363:tf:5.4","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 5.4","confidence":"high","budget_2025_keur":49172}
+{"from":"GM0363","to":"GM0363:tf:5.5","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 5.5","confidence":"high","budget_2025_keur":5279}
+{"from":"GM0363","to":"GM0363:tf:5.6","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 5.6","confidence":"high","budget_2025_keur":40521}
+{"from":"GM0363","to":"GM0363:tf:5.7","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 5.7","confidence":"high","budget_2025_keur":121228}
+{"from":"GM0363","to":"GM0363:tf:6.1","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 6.1","confidence":"high","budget_2025_keur":271410}
+{"from":"GM0363","to":"GM0363:tf:6.3","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 6.3","confidence":"high","budget_2025_keur":993647}
+{"from":"GM0363","to":"GM0363:tf:6.4","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 6.4","confidence":"high","budget_2025_keur":92533}
+{"from":"GM0363","to":"GM0363:tf:6.5","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 6.5","confidence":"high","budget_2025_keur":148975}
+{"from":"GM0363","to":"GM0363:tf:6.21","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 6.21","confidence":"high","budget_2025_keur":63332}
+{"from":"GM0363","to":"GM0363:tf:6.22","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 6.22","confidence":"high","budget_2025_keur":64029}
+{"from":"GM0363","to":"GM0363:tf:6.23","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 6.23","confidence":"high","budget_2025_keur":25930}
+{"from":"GM0363","to":"GM0363:tf:6.60","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 6.60","confidence":"high","budget_2025_keur":64446}
+{"from":"GM0363","to":"GM0363:tf:6.91","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 6.91","confidence":"high","budget_2025_keur":22504}
+{"from":"GM0363","to":"GM0363:tf:6.92","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 6.92","confidence":"high","budget_2025_keur":9623}
+{"from":"GM0363","to":"GM0363:tf:6.711","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 6.711","confidence":"high","budget_2025_keur":61800}
+{"from":"GM0363","to":"GM0363:tf:6.712","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 6.712","confidence":"high","budget_2025_keur":19440}
+{"from":"GM0363","to":"GM0363:tf:6.713","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 6.713","confidence":"high","budget_2025_keur":43310}
+{"from":"GM0363","to":"GM0363:tf:6.714","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 6.714","confidence":"high","budget_2025_keur":1773}
+{"from":"GM0363","to":"GM0363:tf:6.751","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 6.751","confidence":"high","budget_2025_keur":180862}
+{"from":"GM0363","to":"GM0363:tf:6.752","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 6.752","confidence":"high","budget_2025_keur":0}
+{"from":"GM0363","to":"GM0363:tf:6.753","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 6.753","confidence":"high","budget_2025_keur":4869}
+{"from":"GM0363","to":"GM0363:tf:6.761","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 6.761","confidence":"high","budget_2025_keur":73705}
+{"from":"GM0363","to":"GM0363:tf:6.762","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 6.762","confidence":"high","budget_2025_keur":0}
+{"from":"GM0363","to":"GM0363:tf:6.763","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 6.763","confidence":"high","budget_2025_keur":0}
+{"from":"GM0363","to":"GM0363:tf:6.791","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 6.791","confidence":"high","budget_2025_keur":16707}
+{"from":"GM0363","to":"GM0363:tf:6.792","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 6.792","confidence":"high","budget_2025_keur":14404}
+{"from":"GM0363","to":"GM0363:tf:6.811","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 6.811","confidence":"high","budget_2025_keur":105430}
+{"from":"GM0363","to":"GM0363:tf:6.812","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 6.812","confidence":"high","budget_2025_keur":182125}
+{"from":"GM0363","to":"GM0363:tf:6.821","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 6.821","confidence":"high","budget_2025_keur":48972}
+{"from":"GM0363","to":"GM0363:tf:6.822","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 6.822","confidence":"high","budget_2025_keur":7614}
+{"from":"GM0363","to":"GM0363:tf:7.1","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 7.1","confidence":"high","budget_2025_keur":108225}
+{"from":"GM0363","to":"GM0363:tf:7.2","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 7.2","confidence":"high","budget_2025_keur":98532}
+{"from":"GM0363","to":"GM0363:tf:7.3","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 7.3","confidence":"high","budget_2025_keur":176788}
+{"from":"GM0363","to":"GM0363:tf:7.4","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 7.4","confidence":"high","budget_2025_keur":108977}
+{"from":"GM0363","to":"GM0363:tf:7.5","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 7.5","confidence":"high","budget_2025_keur":10622}
+{"from":"GM0363","to":"GM0363:tf:8.1","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 8.1","confidence":"high","budget_2025_keur":20835}
+{"from":"GM0363","to":"GM0363:tf:8.2","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 8.2","confidence":"high","budget_2025_keur":379039}
+{"from":"GM0363","to":"GM0363:tf:8.3","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0363 8.3","confidence":"high","budget_2025_keur":197115}
+{"from":"GM0518","to":"GM0518:tf:0.1","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 0.1","confidence":"high","budget_2025_keur":28492}
+{"from":"GM0518","to":"GM0518:tf:0.2","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 0.2","confidence":"high","budget_2025_keur":43119}
+{"from":"GM0518","to":"GM0518:tf:0.3","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 0.3","confidence":"high","budget_2025_keur":12240}
+{"from":"GM0518","to":"GM0518:tf:0.4","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 0.4","confidence":"high","budget_2025_keur":399796}
+{"from":"GM0518","to":"GM0518:tf:0.5","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 0.5","confidence":"high","budget_2025_keur":33287}
+{"from":"GM0518","to":"GM0518:tf:0.7","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 0.7","confidence":"high","budget_2025_keur":0}
+{"from":"GM0518","to":"GM0518:tf:0.8","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 0.8","confidence":"high","budget_2025_keur":28740}
+{"from":"GM0518","to":"GM0518:tf:0.9","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 0.9","confidence":"high","budget_2025_keur":1564}
+{"from":"GM0518","to":"GM0518:tf:0.10","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 0.10","confidence":"high","budget_2025_keur":0}
+{"from":"GM0518","to":"GM0518:tf:0.11","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 0.11","confidence":"high","budget_2025_keur":0}
+{"from":"GM0518","to":"GM0518:tf:0.61","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 0.61","confidence":"high","budget_2025_keur":3572}
+{"from":"GM0518","to":"GM0518:tf:0.62","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 0.62","confidence":"high","budget_2025_keur":2420}
+{"from":"GM0518","to":"GM0518:tf:0.63","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 0.63","confidence":"high","budget_2025_keur":3333}
+{"from":"GM0518","to":"GM0518:tf:0.64","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 0.64","confidence":"high","budget_2025_keur":234}
+{"from":"GM0518","to":"GM0518:tf:1.1","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 1.1","confidence":"high","budget_2025_keur":57051}
+{"from":"GM0518","to":"GM0518:tf:1.2","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 1.2","confidence":"high","budget_2025_keur":60827}
+{"from":"GM0518","to":"GM0518:tf:2.1","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 2.1","confidence":"high","budget_2025_keur":209063}
+{"from":"GM0518","to":"GM0518:tf:2.2","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 2.2","confidence":"high","budget_2025_keur":41020}
+{"from":"GM0518","to":"GM0518:tf:2.3","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 2.3","confidence":"high","budget_2025_keur":0}
+{"from":"GM0518","to":"GM0518:tf:2.4","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 2.4","confidence":"high","budget_2025_keur":13991}
+{"from":"GM0518","to":"GM0518:tf:2.5","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 2.5","confidence":"high","budget_2025_keur":16837}
+{"from":"GM0518","to":"GM0518:tf:3.1","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 3.1","confidence":"high","budget_2025_keur":9862}
+{"from":"GM0518","to":"GM0518:tf:3.2","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 3.2","confidence":"high","budget_2025_keur":19111}
+{"from":"GM0518","to":"GM0518:tf:3.3","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 3.3","confidence":"high","budget_2025_keur":11551}
+{"from":"GM0518","to":"GM0518:tf:3.4","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 3.4","confidence":"high","budget_2025_keur":14851}
+{"from":"GM0518","to":"GM0518:tf:4.1","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 4.1","confidence":"high","budget_2025_keur":0}
+{"from":"GM0518","to":"GM0518:tf:4.2","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 4.2","confidence":"high","budget_2025_keur":44698}
+{"from":"GM0518","to":"GM0518:tf:4.3","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 4.3","confidence":"high","budget_2025_keur":105031}
+{"from":"GM0518","to":"GM0518:tf:5.1","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 5.1","confidence":"high","budget_2025_keur":22514}
+{"from":"GM0518","to":"GM0518:tf:5.2","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 5.2","confidence":"high","budget_2025_keur":49795}
+{"from":"GM0518","to":"GM0518:tf:5.3","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 5.3","confidence":"high","budget_2025_keur":86562}
+{"from":"GM0518","to":"GM0518:tf:5.4","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 5.4","confidence":"high","budget_2025_keur":31874}
+{"from":"GM0518","to":"GM0518:tf:5.5","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 5.5","confidence":"high","budget_2025_keur":1414}
+{"from":"GM0518","to":"GM0518:tf:5.6","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 5.6","confidence":"high","budget_2025_keur":31116}
+{"from":"GM0518","to":"GM0518:tf:5.7","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 5.7","confidence":"high","budget_2025_keur":50158}
+{"from":"GM0518","to":"GM0518:tf:6.1","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 6.1","confidence":"high","budget_2025_keur":126904}
+{"from":"GM0518","to":"GM0518:tf:6.3","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 6.3","confidence":"high","budget_2025_keur":536658}
+{"from":"GM0518","to":"GM0518:tf:6.4","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 6.4","confidence":"high","budget_2025_keur":87442}
+{"from":"GM0518","to":"GM0518:tf:6.5","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 6.5","confidence":"high","budget_2025_keur":63704}
+{"from":"GM0518","to":"GM0518:tf:6.21","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 6.21","confidence":"high","budget_2025_keur":8528}
+{"from":"GM0518","to":"GM0518:tf:6.22","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 6.22","confidence":"high","budget_2025_keur":58476}
+{"from":"GM0518","to":"GM0518:tf:6.23","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 6.23","confidence":"high","budget_2025_keur":27385}
+{"from":"GM0518","to":"GM0518:tf:6.60","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 6.60","confidence":"high","budget_2025_keur":38820}
+{"from":"GM0518","to":"GM0518:tf:6.91","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 6.91","confidence":"high","budget_2025_keur":0}
+{"from":"GM0518","to":"GM0518:tf:6.92","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 6.92","confidence":"high","budget_2025_keur":3987}
+{"from":"GM0518","to":"GM0518:tf:6.711","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 6.711","confidence":"high","budget_2025_keur":84447}
+{"from":"GM0518","to":"GM0518:tf:6.712","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 6.712","confidence":"high","budget_2025_keur":36846}
+{"from":"GM0518","to":"GM0518:tf:6.713","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 6.713","confidence":"high","budget_2025_keur":11099}
+{"from":"GM0518","to":"GM0518:tf:6.714","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 6.714","confidence":"high","budget_2025_keur":0}
+{"from":"GM0518","to":"GM0518:tf:6.751","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 6.751","confidence":"high","budget_2025_keur":66822}
+{"from":"GM0518","to":"GM0518:tf:6.752","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 6.752","confidence":"high","budget_2025_keur":10000}
+{"from":"GM0518","to":"GM0518:tf:6.753","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 6.753","confidence":"high","budget_2025_keur":0}
+{"from":"GM0518","to":"GM0518:tf:6.761","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 6.761","confidence":"high","budget_2025_keur":1868}
+{"from":"GM0518","to":"GM0518:tf:6.762","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 6.762","confidence":"high","budget_2025_keur":73716}
+{"from":"GM0518","to":"GM0518:tf:6.763","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 6.763","confidence":"high","budget_2025_keur":5000}
+{"from":"GM0518","to":"GM0518:tf:6.791","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 6.791","confidence":"high","budget_2025_keur":6264}
+{"from":"GM0518","to":"GM0518:tf:6.792","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 6.792","confidence":"high","budget_2025_keur":6092}
+{"from":"GM0518","to":"GM0518:tf:6.811","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 6.811","confidence":"high","budget_2025_keur":105957}
+{"from":"GM0518","to":"GM0518:tf:6.812","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 6.812","confidence":"high","budget_2025_keur":43448}
+{"from":"GM0518","to":"GM0518:tf:6.821","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 6.821","confidence":"high","budget_2025_keur":9387}
+{"from":"GM0518","to":"GM0518:tf:6.822","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 6.822","confidence":"high","budget_2025_keur":2221}
+{"from":"GM0518","to":"GM0518:tf:7.1","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 7.1","confidence":"high","budget_2025_keur":91197}
+{"from":"GM0518","to":"GM0518:tf:7.2","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 7.2","confidence":"high","budget_2025_keur":49948}
+{"from":"GM0518","to":"GM0518:tf:7.3","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 7.3","confidence":"high","budget_2025_keur":96701}
+{"from":"GM0518","to":"GM0518:tf:7.4","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 7.4","confidence":"high","budget_2025_keur":51811}
+{"from":"GM0518","to":"GM0518:tf:7.5","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 7.5","confidence":"high","budget_2025_keur":2901}
+{"from":"GM0518","to":"GM0518:tf:8.1","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 8.1","confidence":"high","budget_2025_keur":12912}
+{"from":"GM0518","to":"GM0518:tf:8.2","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 8.2","confidence":"high","budget_2025_keur":60019}
+{"from":"GM0518","to":"GM0518:tf:8.3","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0518 8.3","confidence":"high","budget_2025_keur":104487}
+{"from":"GM0715","to":"GM0715:tf:0.1","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 0.1","confidence":"high","budget_2025_keur":4831}
+{"from":"GM0715","to":"GM0715:tf:0.2","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 0.2","confidence":"high","budget_2025_keur":2462}
+{"from":"GM0715","to":"GM0715:tf:0.3","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 0.3","confidence":"high","budget_2025_keur":2807}
+{"from":"GM0715","to":"GM0715:tf:0.4","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 0.4","confidence":"high","budget_2025_keur":21205}
+{"from":"GM0715","to":"GM0715:tf:0.5","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 0.5","confidence":"high","budget_2025_keur":-220}
+{"from":"GM0715","to":"GM0715:tf:0.7","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 0.7","confidence":"high","budget_2025_keur":0}
+{"from":"GM0715","to":"GM0715:tf:0.8","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 0.8","confidence":"high","budget_2025_keur":-90}
+{"from":"GM0715","to":"GM0715:tf:0.9","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 0.9","confidence":"high","budget_2025_keur":140}
+{"from":"GM0715","to":"GM0715:tf:0.10","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 0.10","confidence":"high","budget_2025_keur":0}
+{"from":"GM0715","to":"GM0715:tf:0.11","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 0.11","confidence":"high","budget_2025_keur":0}
+{"from":"GM0715","to":"GM0715:tf:0.61","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 0.61","confidence":"high","budget_2025_keur":818}
+{"from":"GM0715","to":"GM0715:tf:0.62","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 0.62","confidence":"high","budget_2025_keur":143}
+{"from":"GM0715","to":"GM0715:tf:0.63","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 0.63","confidence":"high","budget_2025_keur":0}
+{"from":"GM0715","to":"GM0715:tf:0.64","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 0.64","confidence":"high","budget_2025_keur":65}
+{"from":"GM0715","to":"GM0715:tf:1.1","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 1.1","confidence":"high","budget_2025_keur":5063}
+{"from":"GM0715","to":"GM0715:tf:1.2","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 1.2","confidence":"high","budget_2025_keur":2048}
+{"from":"GM0715","to":"GM0715:tf:2.1","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 2.1","confidence":"high","budget_2025_keur":12679}
+{"from":"GM0715","to":"GM0715:tf:2.2","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 2.2","confidence":"high","budget_2025_keur":1016}
+{"from":"GM0715","to":"GM0715:tf:2.3","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 2.3","confidence":"high","budget_2025_keur":339}
+{"from":"GM0715","to":"GM0715:tf:2.4","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 2.4","confidence":"high","budget_2025_keur":0}
+{"from":"GM0715","to":"GM0715:tf:2.5","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 2.5","confidence":"high","budget_2025_keur":0}
+{"from":"GM0715","to":"GM0715:tf:3.1","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 3.1","confidence":"high","budget_2025_keur":2177}
+{"from":"GM0715","to":"GM0715:tf:3.2","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 3.2","confidence":"high","budget_2025_keur":1576}
+{"from":"GM0715","to":"GM0715:tf:3.3","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 3.3","confidence":"high","budget_2025_keur":224}
+{"from":"GM0715","to":"GM0715:tf:3.4","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 3.4","confidence":"high","budget_2025_keur":346}
+{"from":"GM0715","to":"GM0715:tf:4.1","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 4.1","confidence":"high","budget_2025_keur":0}
+{"from":"GM0715","to":"GM0715:tf:4.2","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 4.2","confidence":"high","budget_2025_keur":4390}
+{"from":"GM0715","to":"GM0715:tf:4.3","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 4.3","confidence":"high","budget_2025_keur":5888}
+{"from":"GM0715","to":"GM0715:tf:5.1","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 5.1","confidence":"high","budget_2025_keur":917}
+{"from":"GM0715","to":"GM0715:tf:5.2","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 5.2","confidence":"high","budget_2025_keur":6571}
+{"from":"GM0715","to":"GM0715:tf:5.3","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 5.3","confidence":"high","budget_2025_keur":3592}
+{"from":"GM0715","to":"GM0715:tf:5.4","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 5.4","confidence":"high","budget_2025_keur":2069}
+{"from":"GM0715","to":"GM0715:tf:5.5","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 5.5","confidence":"high","budget_2025_keur":439}
+{"from":"GM0715","to":"GM0715:tf:5.6","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 5.6","confidence":"high","budget_2025_keur":2080}
+{"from":"GM0715","to":"GM0715:tf:5.7","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 5.7","confidence":"high","budget_2025_keur":7191}
+{"from":"GM0715","to":"GM0715:tf:6.1","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 6.1","confidence":"high","budget_2025_keur":13778}
+{"from":"GM0715","to":"GM0715:tf:6.3","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 6.3","confidence":"high","budget_2025_keur":26615}
+{"from":"GM0715","to":"GM0715:tf:6.4","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 6.4","confidence":"high","budget_2025_keur":9699}
+{"from":"GM0715","to":"GM0715:tf:6.5","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 6.5","confidence":"high","budget_2025_keur":4205}
+{"from":"GM0715","to":"GM0715:tf:6.21","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 6.21","confidence":"high","budget_2025_keur":0}
+{"from":"GM0715","to":"GM0715:tf:6.22","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 6.22","confidence":"high","budget_2025_keur":3493}
+{"from":"GM0715","to":"GM0715:tf:6.23","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 6.23","confidence":"high","budget_2025_keur":1157}
+{"from":"GM0715","to":"GM0715:tf:6.60","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 6.60","confidence":"high","budget_2025_keur":2523}
+{"from":"GM0715","to":"GM0715:tf:6.91","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 6.91","confidence":"high","budget_2025_keur":3}
+{"from":"GM0715","to":"GM0715:tf:6.92","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 6.92","confidence":"high","budget_2025_keur":95}
+{"from":"GM0715","to":"GM0715:tf:6.711","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 6.711","confidence":"high","budget_2025_keur":7927}
+{"from":"GM0715","to":"GM0715:tf:6.712","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 6.712","confidence":"high","budget_2025_keur":7285}
+{"from":"GM0715","to":"GM0715:tf:6.713","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 6.713","confidence":"high","budget_2025_keur":0}
+{"from":"GM0715","to":"GM0715:tf:6.714","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 6.714","confidence":"high","budget_2025_keur":41}
+{"from":"GM0715","to":"GM0715:tf:6.751","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 6.751","confidence":"high","budget_2025_keur":551}
+{"from":"GM0715","to":"GM0715:tf:6.752","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 6.752","confidence":"high","budget_2025_keur":11409}
+{"from":"GM0715","to":"GM0715:tf:6.753","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 6.753","confidence":"high","budget_2025_keur":0}
+{"from":"GM0715","to":"GM0715:tf:6.761","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 6.761","confidence":"high","budget_2025_keur":0}
+{"from":"GM0715","to":"GM0715:tf:6.762","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 6.762","confidence":"high","budget_2025_keur":14472}
+{"from":"GM0715","to":"GM0715:tf:6.763","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 6.763","confidence":"high","budget_2025_keur":605}
+{"from":"GM0715","to":"GM0715:tf:6.791","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 6.791","confidence":"high","budget_2025_keur":592}
+{"from":"GM0715","to":"GM0715:tf:6.792","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 6.792","confidence":"high","budget_2025_keur":145}
+{"from":"GM0715","to":"GM0715:tf:6.811","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 6.811","confidence":"high","budget_2025_keur":306}
+{"from":"GM0715","to":"GM0715:tf:6.812","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 6.812","confidence":"high","budget_2025_keur":695}
+{"from":"GM0715","to":"GM0715:tf:6.821","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 6.821","confidence":"high","budget_2025_keur":2031}
+{"from":"GM0715","to":"GM0715:tf:6.822","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 6.822","confidence":"high","budget_2025_keur":446}
+{"from":"GM0715","to":"GM0715:tf:7.1","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 7.1","confidence":"high","budget_2025_keur":3750}
+{"from":"GM0715","to":"GM0715:tf:7.2","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 7.2","confidence":"high","budget_2025_keur":4790}
+{"from":"GM0715","to":"GM0715:tf:7.3","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 7.3","confidence":"high","budget_2025_keur":8608}
+{"from":"GM0715","to":"GM0715:tf:7.4","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 7.4","confidence":"high","budget_2025_keur":5027}
+{"from":"GM0715","to":"GM0715:tf:7.5","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 7.5","confidence":"high","budget_2025_keur":791}
+{"from":"GM0715","to":"GM0715:tf:8.1","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 8.1","confidence":"high","budget_2025_keur":3414}
+{"from":"GM0715","to":"GM0715:tf:8.2","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 8.2","confidence":"high","budget_2025_keur":1284}
+{"from":"GM0715","to":"GM0715:tf:8.3","type":"spends_on","source":"cbs_iv3","source_ref":"45071NED GM0715 8.3","confidence":"high","budget_2025_keur":3415}
+{"from":"GM0363:tf:0.4","to":"GM0363","type":"overhead_of","source":"fixed","source_ref":"BBV task field 0.4","confidence":"high"}
+{"from":"GM0518:tf:0.4","to":"GM0518","type":"overhead_of","source":"fixed","source_ref":"BBV task field 0.4","confidence":"high"}
+{"from":"GM0715:tf:0.4","to":"GM0715","type":"overhead_of","source":"fixed","source_ref":"BBV task field 0.4","confidence":"high"}
+{"from":"sys:44851255","to":"GM0363:tf:0.4","type":"funded_from","source":"keyword_rule","source_ref":"\\b(youforce|salaris|personeel|hr\\b|factuur|copilot|deepl|chatbot|chatgpt|anonimiser|postex)","confidence":"medium"}
+{"from":"sys:34495650","to":"GM0715:tf:0.4","type":"funded_from","source":"keyword_rule","source_ref":"\\b(youforce|salaris|personeel|hr\\b|factuur|copilot|deepl|chatbot|chatgpt|anonimiser|postex)","confidence":"medium"}
+{"from":"sys:34647484","to":"GM0715:tf:0.4","type":"funded_from","source":"keyword_rule","source_ref":"\\b(youforce|salaris|personeel|hr\\b|factuur|copilot|deepl|chatbot|chatgpt|anonimiser|postex)","confidence":"medium"}
+{"from":"sys:96578966","to":"GM0715:tf:0.4","type":"funded_from","source":"keyword_rule","source_ref":"\\b(youforce|salaris|personeel|hr\\b|factuur|copilot|deepl|chatbot|chatgpt|anonimiser|postex)","confidence":"medium"}
+{"from":"sys:76551752","to":"GM0363:tf:0.4","type":"funded_from","source":"theme_map","source_ref":"Organisatie en bedrijfsvoering","confidence":"high"}
+{"from":"sys:62595764","to":"GM0363:tf:0.4","type":"funded_from","source":"theme_map","source_ref":"Organisatie en bedrijfsvoering","confidence":"high"}
+{"from":"sys:15733766","to":"GM0518:tf:2.1","type":"funded_from","source":"keyword_rule","source_ref":"\\b(kenteken|scanauto|milieuzone|zero-emissie)","confidence":"medium"}
+{"from":"sys:98139499","to":"GM0715:tf:0.4","type":"funded_from","source":"keyword_rule","source_ref":"\\b(youforce|salaris|personeel|hr\\b|factuur|copilot|deepl|chatbot|chatgpt|anonimiser|postex)","confidence":"medium"}
+{"from":"sys:52549537","to":"GM0715:tf:6.3","type":"funded_from","source":"keyword_rule","source_ref":"\\b(bijstand|levensonderhoud|participatiewet|bbz|kwijtschelding|armoede|inkomens)","confidence":"medium"}
+{"from":"sys:32576955","to":"GM0363:tf:7.3","type":"funded_from","source":"keyword_rule","source_ref":"\\b(afval|orac|bijplaatsing|container)","confidence":"medium"}
+{"from":"sys:32576955","to":"GM0363:tf:0.64","type":"funded_from","source":"keyword_rule","source_ref":"\\b(reclamebelasting|toeristenbelasting|precario)","confidence":"medium"}
+{"from":"sys:61644263","to":"GM0363:tf:0.4","type":"funded_from","source":"keyword_rule","source_ref":"\\b(youforce|salaris|personeel|hr\\b|factuur|copilot|deepl|chatbot|chatgpt|anonimiser|postex)","confidence":"medium"}
+{"from":"sys:92925234","to":"GM0715:tf:0.4","type":"funded_from","source":"keyword_rule","source_ref":"\\b(youforce|salaris|personeel|hr\\b|factuur|copilot|deepl|chatbot|chatgpt|anonimiser|postex)","confidence":"medium"}
+{"from":"sys:89219124","to":"GM0715:tf:2.1","type":"funded_from","source":"theme_map","source_ref":"Verkeer","confidence":"high"}
+{"from":"sys:89219124","to":"GM0715:tf:2.2","type":"funded_from","source":"theme_map","source_ref":"Verkeer","confidence":"medium"}
+{"from":"sys:58493843","to":"GM0715:tf:2.2","type":"funded_from","source":"keyword_rule","source_ref":"\\b(parkeer|parkeren|parkeergarage|parkeercontrole)","confidence":"medium"}
+{"from":"sys:58493843","to":"GM0715:tf:2.1","type":"funded_from","source":"keyword_rule","source_ref":"\\b(kenteken|scanauto|milieuzone|zero-emissie)","confidence":"medium"}
+{"from":"sys:63927968","to":"GM0715:tf:0.2","type":"funded_from","source":"keyword_rule","source_ref":"\\b(burgerzaken|rni|paspoort|reisdocument|brp|adreskwaliteit|edienst)","confidence":"medium"}
+{"from":"sys:82933890","to":"GM0715:tf:0.2","type":"funded_from","source":"keyword_rule","source_ref":"\\b(burgerzaken|rni|paspoort|reisdocument|brp|adreskwaliteit|edienst)","confidence":"medium"}
+{"from":"sys:57325978","to":"GM0518:tf:6.5","type":"funded_from","source":"theme_map","source_ref":"Werk","confidence":"high"}
+{"from":"sys:55362362","to":"GM0518:tf:6.3","type":"funded_from","source":"theme_map","source_ref":"Sociale zekerheid","confidence":"high"}
+{"from":"sys:16262977","to":"GM0518:tf:6.3","type":"funded_from","source":"keyword_rule","source_ref":"\\b(bijstand|levensonderhoud|participatiewet|bbz|kwijtschelding|armoede|inkomens)","confidence":"medium"}
+{"from":"sys:29355466","to":"GM0363:tf:6.3","type":"funded_from","source":"keyword_rule","source_ref":"\\b(bijstand|levensonderhoud|participatiewet|bbz|kwijtschelding|armoede|inkomens)","confidence":"medium"}
+{"from":"sys:17542829","to":"GM0518:tf:0.4","type":"funded_from","source":"keyword_rule","source_ref":"\\b(youforce|salaris|personeel|hr\\b|factuur|copilot|deepl|chatbot|chatgpt|anonimiser|postex)","confidence":"medium"}
+{"from":"sys:47168770","to":"GM0518:tf:2.1","type":"funded_from","source":"keyword_rule","source_ref":"\\b(kenteken|scanauto|milieuzone|zero-emissie)","confidence":"medium"}
+{"from":"sys:47168770","to":"GM0518:tf:1.2","type":"funded_from","source":"keyword_rule","source_ref":"\\b(camera|cameratoezicht|ondermijning|top600|veiligheid)","confidence":"medium"}
+{"from":"sys:28751641","to":"GM0363:tf:6.3","type":"funded_from","source":"keyword_rule","source_ref":"\\b(bijstand|levensonderhoud|participatiewet|bbz|kwijtschelding|armoede|inkomens)","confidence":"medium"}
+{"from":"sys:39231781","to":"GM0363:tf:6.3","type":"funded_from","source":"keyword_rule","source_ref":"\\b(bijstand|levensonderhoud|participatiewet|bbz|kwijtschelding|armoede|inkomens)","confidence":"medium"}
+{"from":"sys:45171996","to":"GM0363:tf:0.4","type":"funded_from","source":"theme_map","source_ref":"Organisatie en bedrijfsvoering","confidence":"high"}
+{"from":"sys:76679272","to":"GM0363:tf:8.1","type":"funded_from","source":"theme_map","source_ref":"Ruimte en infrastructuur","confidence":"medium"}
+{"from":"sys:29564213","to":"GM0363:tf:0.4","type":"funded_from","source":"theme_map","source_ref":"Organisatie en bedrijfsvoering","confidence":"high"}
+{"from":"sys:43981944","to":"GM0363:tf:0.2","type":"funded_from","source":"keyword_rule","source_ref":"\\b(burgerzaken|rni|paspoort|reisdocument|brp|adreskwaliteit|edienst)","confidence":"medium"}
+{"from":"sys:61944129","to":"GM0363:tf:0.4","type":"funded_from","source":"keyword_rule","source_ref":"\\b(youforce|salaris|personeel|hr\\b|factuur|copilot|deepl|chatbot|chatgpt|anonimiser|postex)","confidence":"medium"}
+{"from":"sys:57358622","to":"GM0518:tf:2.2","type":"funded_from","source":"keyword_rule","source_ref":"\\b(parkeer|parkeren|parkeergarage|parkeercontrole)","confidence":"medium"}
+{"from":"sys:79654643","to":"GM0518:tf:8.1","type":"funded_from","source":"theme_map","source_ref":"Ruimte en infrastructuur","confidence":"medium"}
+{"from":"sys:91243788","to":"GM0518:tf:8.3","type":"funded_from","source":"keyword_rule","source_ref":"\\b(vakantieverhuur|onderhuur|toeristische verhuur|opkoopbescherming|woonfraude)","confidence":"medium"}
+{"from":"sys:24724122","to":"GM0518:tf:7.3","type":"funded_from","source":"keyword_rule","source_ref":"\\b(afval|orac|bijplaatsing|container)","confidence":"medium"}
+{"from":"sys:93192327","to":"GM0518:tf:8.1","type":"funded_from","source":"theme_map","source_ref":"Ruimte en infrastructuur","confidence":"medium"}
+{"from":"sys:91611895","to":"GM0518:tf:0.4","type":"funded_from","source":"theme_map","source_ref":"Organisatie en bedrijfsvoering","confidence":"high"}
+{"from":"sys:27677810","to":"GM0363:tf:0.2","type":"funded_from","source":"keyword_rule","source_ref":"\\b(burgerzaken|rni|paspoort|reisdocument|brp|adreskwaliteit|edienst)","confidence":"medium"}
+{"from":"sys:62444981","to":"GM0363:tf:4.3","type":"funded_from","source":"theme_map","source_ref":"Onderwijs en wetenschap","confidence":"high"}
+{"from":"sys:68126546","to":"GM0363:tf:0.4","type":"funded_from","source":"theme_map","source_ref":"Organisatie en bedrijfsvoering","confidence":"high"}
+{"from":"sys:68126546","to":"GM0363:tf:1.2","type":"funded_from","source":"theme_map","source_ref":"Openbare orde en veiligheid","confidence":"high"}
+{"from":"sys:23372779","to":"GM0363:tf:7.1","type":"funded_from","source":"keyword_rule","source_ref":"\\b(ggd|gezondheid|corona)","confidence":"medium"}
+{"from":"sys:59392590","to":"GM0363:tf:1.2","type":"funded_from","source":"theme_map","source_ref":"Openbare orde en veiligheid","confidence":"high"}
+{"from":"sys:62573812","to":"GM0363:tf:1.2","type":"funded_from","source":"theme_map","source_ref":"Openbare orde en veiligheid","confidence":"high"}
+{"from":"sys:19497482","to":"GM0363:tf:8.1","type":"funded_from","source":"theme_map","source_ref":"Ruimte en infrastructuur","confidence":"medium"}
+{"from":"sys:23189993","to":"GM0363:tf:0.4","type":"funded_from","source":"theme_map","source_ref":"Organisatie en bedrijfsvoering","confidence":"high"}
+{"from":"sys:37694526","to":"GM0363:tf:1.2","type":"funded_from","source":"theme_map","source_ref":"Openbare orde en veiligheid","confidence":"high"}
+{"from":"sys:58953176","to":"GM0363:tf:1.2","type":"funded_from","source":"keyword_rule","source_ref":"\\b(camera|cameratoezicht|ondermijning|top600|veiligheid)","confidence":"medium"}
+{"from":"sys:57623362","to":"GM0363:tf:8.1","type":"funded_from","source":"theme_map","source_ref":"Ruimte en infrastructuur","confidence":"medium"}
+{"from":"sys:47842380","to":"GM0363:tf:0.4","type":"funded_from","source":"theme_map","source_ref":"Organisatie en bedrijfsvoering","confidence":"high"}
+{"from":"sys:38895425","to":"GM0363:tf:6.3","type":"funded_from","source":"keyword_rule","source_ref":"\\b(bijstand|levensonderhoud|participatiewet|bbz|kwijtschelding|armoede|inkomens)","confidence":"medium"}
+{"from":"sys:54434950","to":"GM0715:tf:0.4","type":"funded_from","source":"keyword_rule","source_ref":"\\b(youforce|salaris|personeel|hr\\b|factuur|copilot|deepl|chatbot|chatgpt|anonimiser|postex)","confidence":"medium"}
+{"from":"sys:29627312","to":"GM0518:tf:8.3","type":"funded_from","source":"keyword_rule","source_ref":"\\b(vakantieverhuur|onderhuur|toeristische verhuur|opkoopbescherming|woonfraude)","confidence":"medium"}
+{"from":"sys:63984978","to":"GM0518:tf:7.3","type":"funded_from","source":"keyword_rule","source_ref":"\\b(afval|orac|bijplaatsing|container)","confidence":"medium"}
+{"from":"sys:99156435","to":"GM0518:tf:0.61","type":"funded_from","source":"theme_map","source_ref":"Overheidsfinanciën","confidence":"medium"}
+{"from":"sys:99156435","to":"GM0518:tf:0.62","type":"funded_from","source":"theme_map","source_ref":"Overheidsfinanciën","confidence":"medium"}
+{"from":"sys:99156435","to":"GM0518:tf:0.64","type":"funded_from","source":"theme_map","source_ref":"Overheidsfinanciën","confidence":"medium"}
+{"from":"sys:17364371","to":"GM0363:tf:8.1","type":"funded_from","source":"theme_map","source_ref":"Ruimte en infrastructuur","confidence":"medium"}
+{"from":"sys:17364371","to":"GM0363:tf:2.1","type":"funded_from","source":"theme_map","source_ref":"Verkeer","confidence":"high"}
+{"from":"sys:17364371","to":"GM0363:tf:2.2","type":"funded_from","source":"theme_map","source_ref":"Verkeer","confidence":"medium"}
+{"from":"sys:83287754","to":"GM0363:tf:6.3","type":"funded_from","source":"keyword_rule","source_ref":"\\b(bijstand|levensonderhoud|participatiewet|bbz|kwijtschelding|armoede|inkomens)","confidence":"medium"}
+{"from":"sys:79334684","to":"GM0363:tf:6.3","type":"funded_from","source":"theme_map","source_ref":"Sociale zekerheid","confidence":"high"}
+{"from":"sys:82118512","to":"GM0363:tf:6.5","type":"funded_from","source":"keyword_rule","source_ref":"\\b(loonwaarde|re-integratie|bijstand naar werk)","confidence":"medium"}
+{"from":"sys:35672180","to":"GM0363:tf:2.1","type":"funded_from","source":"keyword_rule","source_ref":"\\b(kenteken|scanauto|milieuzone|zero-emissie)","confidence":"medium"}
+{"from":"sys:35672180","to":"GM0363:tf:0.4","type":"funded_from","source":"keyword_rule","source_ref":"\\b(youforce|salaris|personeel|hr\\b|factuur|copilot|deepl|chatbot|chatgpt|anonimiser|postex)","confidence":"medium"}
+{"from":"sys:66344559","to":"GM0363:tf:2.3","type":"funded_from","source":"keyword_rule","source_ref":"\\b(gracht|passagiersvaart|ligplaats|haven)","confidence":"medium"}
+{"from":"sys:94352131","to":"GM0363:tf:2.3","type":"funded_from","source":"keyword_rule","source_ref":"\\b(gracht|passagiersvaart|ligplaats|haven)","confidence":"medium"}
+{"from":"sys:53969675","to":"GM0363:tf:2.3","type":"funded_from","source":"keyword_rule","source_ref":"\\b(gracht|passagiersvaart|ligplaats|haven)","confidence":"medium"}
+{"from":"sys:39981820","to":"GM0363:tf:2.3","type":"funded_from","source":"keyword_rule","source_ref":"\\b(gracht|passagiersvaart|ligplaats|haven)","confidence":"medium"}
+{"from":"sys:56528956","to":"GM0363:tf:2.3","type":"funded_from","source":"keyword_rule","source_ref":"\\b(gracht|passagiersvaart|ligplaats|haven)","confidence":"medium"}
+{"from":"sys:89247323","to":"GM0363:tf:2.3","type":"funded_from","source":"keyword_rule","source_ref":"\\b(gracht|passagiersvaart|ligplaats|haven)","confidence":"medium"}
+{"from":"sys:49838288","to":"GM0518:tf:2.3","type":"funded_from","source":"keyword_rule","source_ref":"\\b(gracht|passagiersvaart|ligplaats|haven)","confidence":"medium"}
+{"from":"sys:91584928","to":"GM0518:tf:4.3","type":"funded_from","source":"theme_map","source_ref":"Onderwijs en wetenschap","confidence":"high"}
+{"from":"sys:36158892","to":"GM0518:tf:0.2","type":"funded_from","source":"keyword_rule","source_ref":"\\b(burgerzaken|rni|paspoort|reisdocument|brp|adreskwaliteit|edienst)","confidence":"medium"}
+{"from":"sys:31934363","to":"GM0518:tf:6.21","type":"funded_from","source":"keyword_rule","source_ref":"\\bwmo\\b","confidence":"medium"}
+{"from":"sys:31934363","to":"GM0518:tf:6.22","type":"funded_from","source":"keyword_rule","source_ref":"\\bjeugd","confidence":"medium"}
+{"from":"sys:67749951","to":"GM0363:tf:8.1","type":"funded_from","source":"theme_map","source_ref":"Ruimte en infrastructuur","confidence":"medium"}
+{"from":"sys:67749951","to":"GM0363:tf:3.1","type":"funded_from","source":"theme_map","source_ref":"Economie","confidence":"medium"}
+{"from":"sys:67749951","to":"GM0363:tf:3.3","type":"funded_from","source":"theme_map","source_ref":"Economie","confidence":"medium"}
+{"from":"sys:41958113","to":"GM0363:tf:2.1","type":"funded_from","source":"keyword_rule","source_ref":"\\b(kenteken|scanauto|milieuzone|zero-emissie)","confidence":"medium"}
+{"from":"sys:37686130","to":"GM0363:tf:2.1","type":"funded_from","source":"theme_map","source_ref":"Verkeer","confidence":"high"}
+{"from":"sys:37686130","to":"GM0363:tf:2.2","type":"funded_from","source":"theme_map","source_ref":"Verkeer","confidence":"medium"}
+{"from":"sys:97733430","to":"GM0363:tf:7.3","type":"funded_from","source":"keyword_rule","source_ref":"\\b(afval|orac|bijplaatsing|container)","confidence":"medium"}
+{"from":"sys:98711983","to":"GM0363:tf:7.3","type":"funded_from","source":"keyword_rule","source_ref":"\\b(afval|orac|bijplaatsing|container)","confidence":"medium"}
+{"from":"sys:98711983","to":"GM0363:tf:1.2","type":"funded_from","source":"keyword_rule","source_ref":"\\b(camera|cameratoezicht|ondermijning|top600|veiligheid)","confidence":"medium"}
+{"from":"sys:34637669","to":"GM0363:tf:8.1","type":"funded_from","source":"theme_map","source_ref":"Ruimte en infrastructuur","confidence":"medium"}
+{"from":"sys:34637669","to":"GM0363:tf:3.1","type":"funded_from","source":"theme_map","source_ref":"Economie","confidence":"medium"}
+{"from":"sys:34637669","to":"GM0363:tf:3.3","type":"funded_from","source":"theme_map","source_ref":"Economie","confidence":"medium"}
+{"from":"sys:95665519","to":"GM0363:tf:8.3","type":"funded_from","source":"keyword_rule","source_ref":"\\b(vakantieverhuur|onderhuur|toeristische verhuur|opkoopbescherming|woonfraude)","confidence":"medium"}
+{"from":"sys:63555572","to":"GM0363:tf:7.1","type":"funded_from","source":"keyword_rule","source_ref":"\\b(ggd|gezondheid|corona)","confidence":"medium"}
+{"from":"sys:35552693","to":"GM0363:tf:8.1","type":"funded_from","source":"theme_map","source_ref":"Ruimte en infrastructuur","confidence":"medium"}
+{"from":"sys:35552693","to":"GM0363:tf:3.1","type":"funded_from","source":"theme_map","source_ref":"Economie","confidence":"medium"}
+{"from":"sys:35552693","to":"GM0363:tf:3.3","type":"funded_from","source":"theme_map","source_ref":"Economie","confidence":"medium"}
+{"from":"sys:35337629","to":"GM0363:tf:8.1","type":"funded_from","source":"theme_map","source_ref":"Ruimte en infrastructuur","confidence":"medium"}
+{"from":"sys:33467665","to":"GM0363:tf:8.1","type":"funded_from","source":"theme_map","source_ref":"Ruimte en infrastructuur","confidence":"medium"}
+{"from":"sys:33467665","to":"GM0363:tf:3.1","type":"funded_from","source":"theme_map","source_ref":"Economie","confidence":"medium"}
+{"from":"sys:33467665","to":"GM0363:tf:3.3","type":"funded_from","source":"theme_map","source_ref":"Economie","confidence":"medium"}
+{"from":"sys:78991981","to":"GM0363:tf:8.1","type":"funded_from","source":"theme_map","source_ref":"Ruimte en infrastructuur","confidence":"medium"}
+{"from":"sys:54148866","to":"GM0363:tf:8.1","type":"funded_from","source":"theme_map","source_ref":"Ruimte en infrastructuur","confidence":"medium"}
+{"from":"sys:65572593","to":"GM0363:tf:8.1","type":"funded_from","source":"theme_map","source_ref":"Ruimte en infrastructuur","confidence":"medium"}
+{"from":"sys:65572593","to":"GM0363:tf:2.1","type":"funded_from","source":"theme_map","source_ref":"Verkeer","confidence":"high"}
+{"from":"sys:65572593","to":"GM0363:tf:2.2","type":"funded_from","source":"theme_map","source_ref":"Verkeer","confidence":"medium"}
+{"from":"sys:14365850","to":"GM0363:tf:8.1","type":"funded_from","source":"theme_map","source_ref":"Ruimte en infrastructuur","confidence":"medium"}
+{"from":"sys:14365850","to":"GM0363:tf:2.1","type":"funded_from","source":"theme_map","source_ref":"Verkeer","confidence":"high"}
+{"from":"sys:14365850","to":"GM0363:tf:2.2","type":"funded_from","source":"theme_map","source_ref":"Verkeer","confidence":"medium"}
+{"from":"sys:59759977","to":"GM0363:tf:8.1","type":"funded_from","source":"theme_map","source_ref":"Ruimte en infrastructuur","confidence":"medium"}
+{"from":"sys:59759977","to":"GM0363:tf:3.1","type":"funded_from","source":"theme_map","source_ref":"Economie","confidence":"medium"}
+{"from":"sys:59759977","to":"GM0363:tf:3.3","type":"funded_from","source":"theme_map","source_ref":"Economie","confidence":"medium"}
+{"from":"sys:68547699","to":"GM0363:tf:5.3","type":"funded_from","source":"theme_map","source_ref":"Cultuur en recreatie","confidence":"medium"}
+{"from":"sys:95794697","to":"GM0363:tf:6.3","type":"funded_from","source":"keyword_rule","source_ref":"\\b(bijstand|levensonderhoud|participatiewet|bbz|kwijtschelding|armoede|inkomens)","confidence":"medium"}
+{"from":"sys:54438848","to":"GM0363:tf:6.3","type":"funded_from","source":"theme_map","source_ref":"Sociale zekerheid","confidence":"high"}
+{"from":"sys:54438848","to":"GM0363:tf:6.5","type":"funded_from","source":"theme_map","source_ref":"Werk","confidence":"high"}
+{"from":"sys:58766226","to":"GM0363:tf:0.61","type":"funded_from","source":"keyword_rule","source_ref":"\\b(woz|waarder)","confidence":"medium"}
+{"from":"sys:11243612","to":"GM0363:tf:8.1","type":"funded_from","source":"theme_map","source_ref":"Ruimte en infrastructuur","confidence":"medium"}
+{"from":"sys:11243612","to":"GM0363:tf:5.3","type":"funded_from","source":"theme_map","source_ref":"Cultuur en recreatie","confidence":"medium"}
+{"from":"sys:46768937","to":"GM0518:tf:6.22","type":"funded_from","source":"keyword_rule","source_ref":"\\bjeugd","confidence":"medium"}
+{"from":"sys:57517331","to":"GM0518:tf:1.2","type":"funded_from","source":"keyword_rule","source_ref":"\\b(camera|cameratoezicht|ondermijning|top600|veiligheid)","confidence":"medium"}
+{"from":"sys:95818782","to":"GM0518:tf:1.2","type":"funded_from","source":"keyword_rule","source_ref":"\\b(camera|cameratoezicht|ondermijning|top600|veiligheid)","confidence":"medium"}
+{"from":"sys:46779276","to":"GM0518:tf:1.2","type":"funded_from","source":"keyword_rule","source_ref":"\\b(camera|cameratoezicht|ondermijning|top600|veiligheid)","confidence":"medium"}
+{"from":"sys:27924554","to":"GM0518:tf:0.2","type":"funded_from","source":"keyword_rule","source_ref":"\\b(stembureau|verkiezing)","confidence":"medium"}
+{"from":"sys:53531982","to":"GM0518:tf:7.3","type":"funded_from","source":"keyword_rule","source_ref":"\\b(afval|orac|bijplaatsing|container)","confidence":"medium"}
+{"from":"sys:22733216","to":"GM0518:tf:1.2","type":"funded_from","source":"theme_map","source_ref":"Openbare orde en veiligheid","confidence":"high"}
+{"from":"sys:86652588","to":"GM0518:tf:6.3","type":"funded_from","source":"theme_map","source_ref":"Sociale zekerheid","confidence":"high"}
+{"from":"sys:54281370","to":"GM0518:tf:6.3","type":"funded_from","source":"keyword_rule","source_ref":"\\b(bijstand|levensonderhoud|participatiewet|bbz|kwijtschelding|armoede|inkomens)","confidence":"medium"}
+{"from":"sys:71627856","to":"GM0518:tf:6.3","type":"funded_from","source":"keyword_rule","source_ref":"\\b(bijstand|levensonderhoud|participatiewet|bbz|kwijtschelding|armoede|inkomens)","confidence":"medium"}
+{"from":"sys:71627856","to":"GM0518:tf:6.5","type":"funded_from","source":"keyword_rule","source_ref":"\\b(loonwaarde|re-integratie|bijstand naar werk)","confidence":"medium"}
+{"from":"sys:41525861","to":"GM0518:tf:0.61","type":"funded_from","source":"keyword_rule","source_ref":"\\b(woz|waarder)","confidence":"medium"}
+{"from":"sys:32429839","to":"GM0518:tf:1.2","type":"funded_from","source":"theme_map","source_ref":"Openbare orde en veiligheid","confidence":"high"}
+{"from":"sys:44714491","to":"GM0518:tf:7.3","type":"funded_from","source":"keyword_rule","source_ref":"\\b(afval|orac|bijplaatsing|container)","confidence":"medium"}
+{"from":"sys:67582219","to":"GM0518:tf:0.4","type":"funded_from","source":"theme_map","source_ref":"Organisatie en bedrijfsvoering","confidence":"high"}
+{"from":"sys:91458197","to":"GM0518:tf:0.4","type":"funded_from","source":"theme_map","source_ref":"Organisatie en bedrijfsvoering","confidence":"high"}
+{"from":"sys:56889459","to":"GM0518:tf:0.4","type":"funded_from","source":"theme_map","source_ref":"Organisatie en bedrijfsvoering","confidence":"high"}
+{"from":"sys:56214518","to":"GM0518:tf:2.1","type":"funded_from","source":"theme_map","source_ref":"Verkeer","confidence":"high"}
+{"from":"sys:56214518","to":"GM0518:tf:2.2","type":"funded_from","source":"theme_map","source_ref":"Verkeer","confidence":"medium"}
+{"from":"sys:48633752","to":"GM0518:tf:2.1","type":"funded_from","source":"theme_map","source_ref":"Verkeer","confidence":"high"}
+{"from":"sys:48633752","to":"GM0518:tf:2.2","type":"funded_from","source":"theme_map","source_ref":"Verkeer","confidence":"medium"}
+{"from":"sys:64871989","to":"GM0518:tf:2.1","type":"funded_from","source":"theme_map","source_ref":"Verkeer","confidence":"high"}
+{"from":"sys:64871989","to":"GM0518:tf:2.2","type":"funded_from","source":"theme_map","source_ref":"Verkeer","confidence":"medium"}
+{"from":"sys:93839192","to":"GM0518:tf:2.1","type":"funded_from","source":"theme_map","source_ref":"Verkeer","confidence":"high"}
+{"from":"sys:93839192","to":"GM0518:tf:2.2","type":"funded_from","source":"theme_map","source_ref":"Verkeer","confidence":"medium"}
+{"from":"sys:98936960","to":"GM0518:tf:2.1","type":"funded_from","source":"theme_map","source_ref":"Verkeer","confidence":"high"}
+{"from":"sys:98936960","to":"GM0518:tf:2.2","type":"funded_from","source":"theme_map","source_ref":"Verkeer","confidence":"medium"}
+{"from":"sys:58239517","to":"GM0518:tf:2.1","type":"funded_from","source":"theme_map","source_ref":"Verkeer","confidence":"high"}
+{"from":"sys:58239517","to":"GM0518:tf:2.2","type":"funded_from","source":"theme_map","source_ref":"Verkeer","confidence":"medium"}
+{"from":"sys:83779930","to":"GM0518:tf:1.2","type":"funded_from","source":"keyword_rule","source_ref":"\\b(camera|cameratoezicht|ondermijning|top600|veiligheid)","confidence":"medium"}
+{"from":"sys:94936689","to":"GM0518:tf:2.2","type":"funded_from","source":"keyword_rule","source_ref":"\\b(parkeer|parkeren|parkeergarage|parkeercontrole)","confidence":"medium"}
+{"from":"sys:94936689","to":"GM0518:tf:2.1","type":"funded_from","source":"keyword_rule","source_ref":"\\b(kenteken|scanauto|milieuzone|zero-emissie)","confidence":"medium"}
+{"from":"sys:97246956","to":"GM0518:tf:6.21","type":"funded_from","source":"keyword_rule","source_ref":"\\bwmo\\b","confidence":"medium"}
+{"from":"sys:16268148","to":"GM0363:tf:8.1","type":"funded_from","source":"theme_map","source_ref":"Ruimte en infrastructuur","confidence":"medium"}
+{"from":"sys:16268148","to":"GM0363:tf:3.1","type":"funded_from","source":"theme_map","source_ref":"Economie","confidence":"medium"}
+{"from":"sys:16268148","to":"GM0363:tf:3.3","type":"funded_from","source":"theme_map","source_ref":"Economie","confidence":"medium"}
+{"from":"sys:38748497","to":"GM0363:tf:0.4","type":"funded_from","source":"theme_map","source_ref":"Organisatie en bedrijfsvoering","confidence":"high"}
+{"from":"sys:38748497","to":"GM0363:tf:8.1","type":"funded_from","source":"theme_map","source_ref":"Ruimte en infrastructuur","confidence":"medium"}
+{"from":"sys:38748497","to":"GM0363:tf:3.1","type":"funded_from","source":"theme_map","source_ref":"Economie","confidence":"medium"}
+{"from":"sys:38748497","to":"GM0363:tf:3.3","type":"funded_from","source":"theme_map","source_ref":"Economie","confidence":"medium"}
+{"from":"sys:67971871","to":"GM0363:tf:0.64","type":"funded_from","source":"keyword_rule","source_ref":"\\b(reclamebelasting|toeristenbelasting|precario)","confidence":"medium"}
+{"from":"sys:78451490","to":"GM0363:tf:2.2","type":"funded_from","source":"keyword_rule","source_ref":"\\b(parkeer|parkeren|parkeergarage|parkeercontrole)","confidence":"medium"}
+{"from":"sys:21579514","to":"GM0363:tf:1.2","type":"funded_from","source":"theme_map","source_ref":"Openbare orde en veiligheid","confidence":"high"}
+{"from":"sys:99175375","to":"GM0363:tf:8.3","type":"funded_from","source":"keyword_rule","source_ref":"\\b(vakantieverhuur|onderhuur|toeristische verhuur|opkoopbescherming|woonfraude)","confidence":"medium"}
+{"from":"sys:66453169","to":"GM0363:tf:6.3","type":"funded_from","source":"keyword_rule","source_ref":"\\b(bijstand|levensonderhoud|participatiewet|bbz|kwijtschelding|armoede|inkomens)","confidence":"medium"}
+{"from":"sys:75856898","to":"GM0363:tf:1.2","type":"funded_from","source":"keyword_rule","source_ref":"\\b(camera|cameratoezicht|ondermijning|top600|veiligheid)","confidence":"medium"}
